@@ -1,0 +1,37 @@
+package group13.bigdata.youtubedatastream;
+
+
+import org.apache.kafka.clients.producer.KafkaProducer;
+import org.apache.kafka.clients.producer.ProducerConfig;
+import org.apache.kafka.clients.producer.ProducerRecord;
+
+import java.util.Properties;
+import java.util.Scanner;
+
+/**
+ * Created by Akarsh Gupta
+ */
+public class YoutubeDataProducer {
+    
+	public YoutubeDataProducer()
+	{
+		 //Configure the Producer
+        Properties configProperties = new Properties();
+        configProperties.put(ProducerConfig.BOOTSTRAP_SERVERS_CONFIG,"localhost:9092");
+        configProperties.put(ProducerConfig.KEY_SERIALIZER_CLASS_CONFIG,"org.apache.kafka.common.serialization.ByteArraySerializer");
+        configProperties.put(ProducerConfig.VALUE_SERIALIZER_CLASS_CONFIG,"org.apache.kafka.common.serialization.StringSerializer");
+
+	}
+       
+        Producer producer = new KafkaProducer(configProperties);
+        String line = in.nextLine();
+        while(!line.equals("exit")) {
+            //TODO: Make sure to use the ProducerRecord constructor that does not take parition Id
+            ProducerRecord<String, String> rec = new ProducerRecord<String, String>(topicName,line);
+            producer.send(rec);
+            line = in.nextLine();
+        }
+        in.close();
+        producer.close();
+    }
+}
