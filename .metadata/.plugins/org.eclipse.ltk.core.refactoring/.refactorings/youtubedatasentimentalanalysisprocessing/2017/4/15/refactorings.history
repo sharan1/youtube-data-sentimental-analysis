@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;youtubedatasentimentalanalysisprocessing/src/group13/bigdata/sparkprocessing/driver.scala&apos; to &apos;sparkmain.scala&apos;" description="Rename resource &apos;driver.scala&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/group13/bigdata/sparkprocessing/driver.scala" name="sparkmain.scala" stamp="1491892415421" updateReferences="true"/>
+</session>

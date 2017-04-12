@@ -194,3 +194,1930 @@ java.net.MalformedURLException: unknown protocol: about
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 02:12:53.172
 !MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2017-04-07 04:00:24.352 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-07 04:00:53.506
+!MESSAGE Project facet jst.web has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-07 04:00:53.556
+!MESSAGE Project facet jst.webfragment has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:02:02.869
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:02:02.951
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:02:05.182
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:02:05.235
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:03:18.841
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:03:18.861
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:15:29.316
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:15:29.328
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-04-07 04:16:56.772
+!MESSAGE Could not download sources for org.json:json:20090211
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not resolve artifact org.json:json:jar:sources:20090211
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:776)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl$5.call(MavenImpl.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:112)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:743)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:720)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:249)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:228)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:202)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:153)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:136)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob$1.call(DownloadSourcesJob.java:1)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:134)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Contains: Missing org.json:json:jar:sources:20090211
+!SUBENTRY 1 org.eclipse.m2e.core 4 -1 2017-04-07 04:16:56.774
+!MESSAGE Could not resolve artifact org.json:json:jar:sources:20090211
+!SUBENTRY 2 org.eclipse.m2e.core 4 -1 2017-04-07 04:16:56.774
+!MESSAGE Missing org.json:json:jar:sources:20090211
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:16:56.978
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:16:56.980
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:38:19.716
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:38:19.752
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:43:18.851
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:43:18.878
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:43:31.620
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:43:31.649
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:45:47.083
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:45:47.098
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:46:04.423
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:46:04.436
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:47:17.096
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:47:17.114
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:52:09.763
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:52:09.787
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:52:14.233
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:52:14.269
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:53:24.036
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:53:24.050
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:54:19.930
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:54:19.946
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:54:50.817
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:54:50.851
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:55:08.655
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:55:08.656
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:56:05.618
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:56:05.636
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:56:17.677
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:56:17.687
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:58:04.293
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:58:04.322
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:59:00.578
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:59:00.581
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:59:51.584
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 04:59:51.603
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 05:02:07.144
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 05:02:07.162
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 05:02:39.641
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 05:02:39.667
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 05:04:26.323
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 05:04:26.331
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 05:07:00.141
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 05:07:00.150
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 05:12:28.720
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-07 05:12:28.721
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2017-04-10 22:17:31.887 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-10 22:18:06.384
+!MESSAGE Project facet jst.web has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-10 22:18:06.473
+!MESSAGE Project facet jst.webfragment has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+!SESSION 2017-04-10 22:23:25.799 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data file:/home/akarsh/workspace/YouTubeDataAnalysis/ -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.osgi 2 0 2017-04-10 22:23:45.110
+!MESSAGE While loading class "org.eclipse.egit.ui.internal.ConfigurationChecker$1$1", thread "Thread[Worker-1,5,main]" timed out waiting (5001ms) for thread "Thread[main,6,main]" to finish starting bundle "org.eclipse.egit.ui_4.6.1.201703071140-r [123]". To avoid deadlock, thread "Thread[Worker-1,5,main]" is proceeding but "org.eclipse.egit.ui.internal.ConfigurationChecker$1$1" may not be fully initialized.
+!STACK 0
+org.osgi.framework.BundleException: Unable to acquire the state change lock for the module: osgi.identity; type="osgi.bundle"; version:Version="4.6.1.201703071140-r"; osgi.identity="org.eclipse.egit.ui"; singleton:="true" [id=123] STARTED [STARTED]
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:337)
+	at org.eclipse.osgi.container.Module.start(Module.java:401)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:470)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:529)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:325)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:423)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:372)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:364)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:161)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.eclipse.egit.ui.internal.ConfigurationChecker$1.run(ConfigurationChecker.java:45)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:334)
+	... 13 more
+Root exception:
+java.util.concurrent.TimeoutException: Timeout after waiting 5 seconds to acquire the lock.
+	at org.eclipse.osgi.container.Module.lockStateChange(Module.java:334)
+	at org.eclipse.osgi.container.Module.start(Module.java:401)
+	at org.eclipse.osgi.framework.util.SecureAction.start(SecureAction.java:470)
+	at org.eclipse.osgi.internal.hooks.EclipseLazyStarter.postFindLocalClass(EclipseLazyStarter.java:107)
+	at org.eclipse.osgi.internal.loader.classpath.ClasspathManager.findLocalClass(ClasspathManager.java:529)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.findLocalClass(ModuleClassLoader.java:325)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findLocalClass(BundleLoader.java:345)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:423)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:372)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:364)
+	at org.eclipse.osgi.internal.loader.ModuleClassLoader.loadClass(ModuleClassLoader.java:161)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.eclipse.egit.ui.internal.ConfigurationChecker$1.run(ConfigurationChecker.java:45)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jface 2 0 2017-04-10 22:23:51.069
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-04-10 22:23:51.069
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@2684227a,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@43ee41aa,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-10 22:24:25.159
+!MESSAGE Project facet jst.web has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-10 22:24:25.182
+!MESSAGE Project facet jst.webfragment has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.wst.sse.core 4 4 2017-04-11 02:21:29.715
+!MESSAGE can not calculate a model ID without a document reference
+!STACK 0
+java.lang.IllegalArgumentException: can not calculate a model ID without a document reference
+	at org.eclipse.wst.sse.core.internal.FileBufferModelManager.calculateId(FileBufferModelManager.java:485)
+	at org.eclipse.wst.sse.core.internal.model.ModelManagerImpl._getModelFor(ModelManagerImpl.java:617)
+	at org.eclipse.wst.sse.core.internal.model.ModelManagerImpl.getModelForRead(ModelManagerImpl.java:1457)
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:467)
+	at org.eclipse.m2e.editor.pom.MavenPomEditorPage.updateParentAction(MavenPomEditorPage.java:392)
+	at org.eclipse.m2e.editor.pom.MavenPomEditorPage.access$2(MavenPomEditorPage.java:388)
+	at org.eclipse.m2e.editor.pom.MavenPomEditorPage$4.run(MavenPomEditorPage.java:260)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4536)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4154)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+
+!ENTRY org.eclipse.wst.sse.core 4 4 2017-04-11 02:21:29.746
+!MESSAGE can not calculate a model ID without a document reference
+!STACK 0
+java.lang.IllegalArgumentException: can not calculate a model ID without a document reference
+	at org.eclipse.wst.sse.core.internal.FileBufferModelManager.calculateId(FileBufferModelManager.java:485)
+	at org.eclipse.wst.sse.core.internal.model.ModelManagerImpl._getModelFor(ModelManagerImpl.java:617)
+	at org.eclipse.wst.sse.core.internal.model.ModelManagerImpl.getModelForRead(ModelManagerImpl.java:1457)
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:467)
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4536)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4154)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-04-11 02:21:29.794
+!MESSAGE Failed to populate overview panel
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510)
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4536)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4154)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+
+!ENTRY org.eclipse.wst.sse.core 4 4 2017-04-11 02:21:30.747
+!MESSAGE can not calculate a model ID without a document reference
+!STACK 0
+java.lang.IllegalArgumentException: can not calculate a model ID without a document reference
+	at org.eclipse.wst.sse.core.internal.FileBufferModelManager.calculateId(FileBufferModelManager.java:485)
+	at org.eclipse.wst.sse.core.internal.model.ModelManagerImpl._getModelFor(ModelManagerImpl.java:617)
+	at org.eclipse.wst.sse.core.internal.model.ModelManagerImpl.getModelForRead(ModelManagerImpl.java:1457)
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:467)
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4536)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4154)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2017-04-11 02:21:30.748
+!MESSAGE Failed to populate overview panel
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.m2e.core.ui.internal.editing.PomEdits.performOnDOMDocument(PomEdits.java:510)
+	at org.eclipse.m2e.editor.pom.OverviewPage$17.run(OverviewPage.java:1129)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4536)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4154)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:693)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:610)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 02:27:05.142
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 02:27:05.240
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 4 2017-04-11 02:33:40.369
+!MESSAGE File not found: '/youtubedatasentimentalanalysisprocessing/src/group13/bigdata/sparkprocessing/driver.scala'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/youtubedatasentimentalanalysisprocessing/src/group13/bigdata/sparkprocessing/driver.scala' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1190)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getContents(CompilationUnit.java:652)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.org$scalaide$core$internal$jdt$model$ScalaSourceFile$$super$getContents(ScalaSourceFile.scala:149)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile$$anonfun$getContents$2.apply(ScalaSourceFile.scala:149)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile$$anonfun$getContents$2.apply(ScalaSourceFile.scala:149)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:103)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.getContents(ScalaSourceFile.scala:149)
+	at org.scalaide.core.internal.jdt.model.ScalaCompilationUnit$class.lastSourceMap(ScalaCompilationUnit.scala:79)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.lastSourceMap(ScalaSourceFile.scala:66)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$$anonfun$withSourceFile$1.apply(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$$anonfun$withSourceFile$1.apply(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy$$anonfun$internal$1.apply(PresentationCompilerProxy.scala:99)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy$$anonfun$internal$1.apply(PresentationCompilerProxy.scala:98)
+	at scala.Option.flatMap(Option.scala:171)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:98)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:56)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:66)
+	at org.scalaide.core.internal.compiler.Scaladoc$$anonfun$1.apply(ScalaDoc.scala:48)
+	at org.scalaide.core.internal.compiler.Scaladoc$$anonfun$1.apply(ScalaDoc.scala:48)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.Scaladoc$class.parsedDocComment(ScalaDoc.scala:48)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.parsedDocComment(ScalaPresentationCompiler.scala:52)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1$$anonfun$apply$3$$anonfun$9.apply(ScalaHoverImpl.scala:227)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1$$anonfun$apply$3$$anonfun$9.apply(ScalaHoverImpl.scala:226)
+	at scala.Option$WithFilter.flatMap(Option.scala:208)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1$$anonfun$apply$3.docComment$lzycompute$1(ScalaHoverImpl.scala:226)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1$$anonfun$apply$3.docComment$1(ScalaHoverImpl.scala:205)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1$$anonfun$apply$3.apply(ScalaHoverImpl.scala:238)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1$$anonfun$apply$3.apply(ScalaHoverImpl.scala:103)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$$anonfun$withSourceFile$1.apply(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$$anonfun$withSourceFile$1.apply(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy$$anonfun$internal$1.apply(PresentationCompilerProxy.scala:99)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy$$anonfun$internal$1.apply(PresentationCompilerProxy.scala:98)
+	at scala.Option.flatMap(Option.scala:171)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:98)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:56)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:66)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1.apply(ScalaHoverImpl.scala:103)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1.apply(ScalaHoverImpl.scala:101)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.getHoverInfo2(ScalaHoverImpl.scala:101)
+	at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.org$scalaide$debug$internal$editor$TextHoverFactory$$anon$$super$getHoverInfo2(TextHoverFactory.scala:53)
+	at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1$$anonfun$2$$anonfun$apply$5.apply(TextHoverFactory.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1$$anonfun$2.apply(TextHoverFactory.scala:51)
+	at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1$$anonfun$2.apply(TextHoverFactory.scala:37)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.getHoverInfo2(TextHoverFactory.scala:37)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2017-04-11 02:33:40.370
+!MESSAGE Resource '/youtubedatasentimentalanalysisprocessing/src/group13/bigdata/sparkprocessing/driver.scala' does not exist.
+
+!ENTRY org.eclipse.jdt.core 4 4 2017-04-11 02:33:40.387
+!MESSAGE File not found: '/youtubedatasentimentalanalysisprocessing/src/group13/bigdata/sparkprocessing/driver.scala'
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource '/youtubedatasentimentalanalysisprocessing/src/group13/bigdata/sparkprocessing/driver.scala' does not exist.
+	at org.eclipse.core.internal.resources.Resource.checkExists(Resource.java:335)
+	at org.eclipse.core.internal.resources.Resource.checkAccessible(Resource.java:209)
+	at org.eclipse.core.internal.resources.File.getContents(File.java:275)
+	at org.eclipse.jdt.internal.core.util.Util.getResourceContentsAsCharArray(Util.java:1190)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getContents(CompilationUnit.java:652)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.org$scalaide$core$internal$jdt$model$ScalaSourceFile$$super$getContents(ScalaSourceFile.scala:149)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile$$anonfun$getContents$2.apply(ScalaSourceFile.scala:149)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile$$anonfun$getContents$2.apply(ScalaSourceFile.scala:149)
+	at scala.util.control.Exception$Catch.apply(Exception.scala:103)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.getContents(ScalaSourceFile.scala:149)
+	at org.scalaide.core.internal.jdt.model.ScalaCompilationUnit$class.lastSourceMap(ScalaCompilationUnit.scala:79)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.lastSourceMap(ScalaSourceFile.scala:66)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$$anonfun$withSourceFile$1.apply(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$$anonfun$withSourceFile$1.apply(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy$$anonfun$internal$1.apply(PresentationCompilerProxy.scala:99)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy$$anonfun$internal$1.apply(PresentationCompilerProxy.scala:98)
+	at scala.Option.flatMap(Option.scala:171)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:98)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:56)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:66)
+	at org.scalaide.core.internal.compiler.Scaladoc$$anonfun$1$$anonfun$apply$1$$anonfun$org$scalaide$core$internal$compiler$Scaladoc$class$$anonfun$$anonfun$$listFragments$1$1$$anonfun$apply$2.apply(ScalaDoc.scala:51)
+	at org.scalaide.core.internal.compiler.Scaladoc$$anonfun$1$$anonfun$apply$1$$anonfun$org$scalaide$core$internal$compiler$Scaladoc$class$$anonfun$$anonfun$$listFragments$1$1$$anonfun$apply$2.apply(ScalaDoc.scala:51)
+	at scala.Option.flatMap(Option.scala:171)
+	at org.scalaide.core.internal.compiler.Scaladoc$$anonfun$1$$anonfun$apply$1$$anonfun$org$scalaide$core$internal$compiler$Scaladoc$class$$anonfun$$anonfun$$listFragments$1$1.apply(ScalaDoc.scala:51)
+	at org.scalaide.core.internal.compiler.Scaladoc$$anonfun$1$$anonfun$apply$1$$anonfun$org$scalaide$core$internal$compiler$Scaladoc$class$$anonfun$$anonfun$$listFragments$1$1.apply(ScalaDoc.scala:50)
+	at scala.collection.immutable.List.flatMap(List.scala:327)
+	at org.scalaide.core.internal.compiler.Scaladoc$$anonfun$1$$anonfun$apply$1.org$scalaide$core$internal$compiler$Scaladoc$class$$anonfun$$anonfun$$listFragments$1(ScalaDoc.scala:50)
+	at org.scalaide.core.internal.compiler.Scaladoc$$anonfun$1$$anonfun$apply$1$$anonfun$apply$4.apply(ScalaDoc.scala:61)
+	at org.scalaide.core.internal.compiler.Scaladoc$$anonfun$1$$anonfun$apply$1$$anonfun$apply$4.apply(ScalaDoc.scala:60)
+	at scala.Option.flatMap(Option.scala:171)
+	at org.scalaide.core.internal.compiler.Scaladoc$$anonfun$1$$anonfun$apply$1.apply(ScalaDoc.scala:60)
+	at org.scalaide.core.internal.compiler.Scaladoc$$anonfun$1$$anonfun$apply$1.apply(ScalaDoc.scala:48)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$$anonfun$withSourceFile$1.apply(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$$anonfun$withSourceFile$1.apply(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy$$anonfun$internal$1.apply(PresentationCompilerProxy.scala:99)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy$$anonfun$internal$1.apply(PresentationCompilerProxy.scala:98)
+	at scala.Option.flatMap(Option.scala:171)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:98)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:56)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:66)
+	at org.scalaide.core.internal.compiler.Scaladoc$$anonfun$1.apply(ScalaDoc.scala:48)
+	at org.scalaide.core.internal.compiler.Scaladoc$$anonfun$1.apply(ScalaDoc.scala:48)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.core.internal.compiler.Scaladoc$class.parsedDocComment(ScalaDoc.scala:48)
+	at org.scalaide.core.internal.compiler.ScalaPresentationCompiler.parsedDocComment(ScalaPresentationCompiler.scala:52)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1$$anonfun$apply$3$$anonfun$9.apply(ScalaHoverImpl.scala:227)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1$$anonfun$apply$3$$anonfun$9.apply(ScalaHoverImpl.scala:226)
+	at scala.Option$WithFilter.flatMap(Option.scala:208)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1$$anonfun$apply$3.docComment$lzycompute$1(ScalaHoverImpl.scala:226)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1$$anonfun$apply$3.docComment$1(ScalaHoverImpl.scala:205)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1$$anonfun$apply$3.apply(ScalaHoverImpl.scala:238)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1$$anonfun$apply$3.apply(ScalaHoverImpl.scala:103)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$$anonfun$withSourceFile$1.apply(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$$anonfun$withSourceFile$1.apply(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy$$anonfun$internal$1.apply(PresentationCompilerProxy.scala:99)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy$$anonfun$internal$1.apply(PresentationCompilerProxy.scala:98)
+	at scala.Option.flatMap(Option.scala:171)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.internal(PresentationCompilerProxy.scala:98)
+	at org.scalaide.core.internal.compiler.PresentationCompilerProxy.apply(PresentationCompilerProxy.scala:56)
+	at org.scalaide.core.compiler.InteractiveCompilationUnit$class.withSourceFile(InteractiveCompilationUnit.scala:201)
+	at org.scalaide.core.internal.jdt.model.ScalaSourceFile.withSourceFile(ScalaSourceFile.scala:66)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1.apply(ScalaHoverImpl.scala:103)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl$$anonfun$1.apply(ScalaHoverImpl.scala:101)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.ui.internal.editor.hover.ScalaHoverImpl.getHoverInfo2(ScalaHoverImpl.scala:101)
+	at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.org$scalaide$debug$internal$editor$TextHoverFactory$$anon$$super$getHoverInfo2(TextHoverFactory.scala:53)
+	at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1$$anonfun$2$$anonfun$apply$5.apply(TextHoverFactory.scala:53)
+	at scala.Option.getOrElse(Option.scala:121)
+	at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1$$anonfun$2.apply(TextHoverFactory.scala:51)
+	at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1$$anonfun$2.apply(TextHoverFactory.scala:37)
+	at scala.Option.map(Option.scala:146)
+	at org.scalaide.debug.internal.editor.TextHoverFactory$$anon$1.getHoverInfo2(TextHoverFactory.scala:37)
+	at org.eclipse.jface.text.TextViewerHoverManager$4.run(TextViewerHoverManager.java:165)
+!SUBENTRY 1 org.eclipse.core.resources 4 368 2017-04-11 02:33:40.396
+!MESSAGE Resource '/youtubedatasentimentalanalysisprocessing/src/group13/bigdata/sparkprocessing/driver.scala' does not exist.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:10:11.187
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:10:11.264
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:19:08.029
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:19:08.030
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:19:10.002
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:19:10.014
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:19:55.477
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:19:55.482
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:20:11.485
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:20:11.489
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:23:07.475
+!MESSAGE The POM for org.apache.spark:spark-streaming-kafka_2.10:jar:1.8.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:23:07.955
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:23:07.971
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:23:51.239
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:23:51.241
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.jdt.core 4 2 2017-04-11 03:23:51.727
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.jdt.core".
+!STACK 1
+Java Model Exception: java.util.zip.ZipException: invalid LOC header (bad signature)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:59)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.getVersion$1(ClasspathManagement.scala:443)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:452)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:449)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber(ClasspathManagement.scala:449)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:305)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:289)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:289)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.checkClasspath(ClasspathManagement.scala:351)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.classpathHasChanged(ClasspathManagement.scala:243)
+	at org.scalaide.core.internal.project.ScalaProject.classpathHasChanged(ScalaProject.scala:147)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1$$anonfun$apply$4.apply(ScalaPlugin.scala:238)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1$$anonfun$apply$4.apply(ScalaPlugin.scala:238)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1.apply(ScalaPlugin.scala:238)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1.apply(ScalaPlugin.scala:232)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.ScalaPlugin.elementChanged(ScalaPlugin.scala:232)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.util.zip.ZipException: invalid LOC header (bad signature)
+	at java.util.zip.ZipFile.read(Native Method)
+	at java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:717)
+	at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:419)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.eclipse.jdt.internal.compiler.util.Util.getInputStreamAsByteArray(Util.java:525)
+	at org.eclipse.jdt.internal.compiler.util.Util.getZipEntryByteContent(Util.java:691)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:56)
+	... 41 more
+Caused by: java.util.zip.ZipException: invalid LOC header (bad signature)
+	at java.util.zip.ZipFile.read(Native Method)
+	at java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:717)
+	at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:419)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.eclipse.jdt.internal.compiler.util.Util.getInputStreamAsByteArray(Util.java:525)
+	at org.eclipse.jdt.internal.compiler.util.Util.getZipEntryByteContent(Util.java:691)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:56)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.getVersion$1(ClasspathManagement.scala:443)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:452)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:449)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber(ClasspathManagement.scala:449)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:305)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:289)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:289)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.checkClasspath(ClasspathManagement.scala:351)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.classpathHasChanged(ClasspathManagement.scala:243)
+	at org.scalaide.core.internal.project.ScalaProject.classpathHasChanged(ScalaProject.scala:147)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1$$anonfun$apply$4.apply(ScalaPlugin.scala:238)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1$$anonfun$apply$4.apply(ScalaPlugin.scala:238)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1.apply(ScalaPlugin.scala:238)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1.apply(ScalaPlugin.scala:232)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.ScalaPlugin.elementChanged(ScalaPlugin.scala:232)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2017-04-11 03:23:51.731
+!MESSAGE invalid LOC header (bad signature)
+!STACK 0
+java.util.zip.ZipException: invalid LOC header (bad signature)
+	at java.util.zip.ZipFile.read(Native Method)
+	at java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:717)
+	at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:419)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.eclipse.jdt.internal.compiler.util.Util.getInputStreamAsByteArray(Util.java:525)
+	at org.eclipse.jdt.internal.compiler.util.Util.getZipEntryByteContent(Util.java:691)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:56)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.getVersion$1(ClasspathManagement.scala:443)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:452)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:449)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber(ClasspathManagement.scala:449)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:305)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:289)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:289)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.checkClasspath(ClasspathManagement.scala:351)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.classpathHasChanged(ClasspathManagement.scala:243)
+	at org.scalaide.core.internal.project.ScalaProject.classpathHasChanged(ScalaProject.scala:147)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1$$anonfun$apply$4.apply(ScalaPlugin.scala:238)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1$$anonfun$apply$4.apply(ScalaPlugin.scala:238)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1.apply(ScalaPlugin.scala:238)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1.apply(ScalaPlugin.scala:232)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.ScalaPlugin.elementChanged(ScalaPlugin.scala:232)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2017-04-11 03:23:51.731
+!MESSAGE invalid LOC header (bad signature)
+!STACK 0
+java.util.zip.ZipException: invalid LOC header (bad signature)
+	at java.util.zip.ZipFile.read(Native Method)
+	at java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:717)
+	at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:419)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.eclipse.jdt.internal.compiler.util.Util.getInputStreamAsByteArray(Util.java:525)
+	at org.eclipse.jdt.internal.compiler.util.Util.getZipEntryByteContent(Util.java:691)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:56)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.getVersion$1(ClasspathManagement.scala:443)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:452)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:449)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber(ClasspathManagement.scala:449)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:305)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:289)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:289)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.checkClasspath(ClasspathManagement.scala:351)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.classpathHasChanged(ClasspathManagement.scala:243)
+	at org.scalaide.core.internal.project.ScalaProject.classpathHasChanged(ScalaProject.scala:147)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1$$anonfun$apply$4.apply(ScalaPlugin.scala:238)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1$$anonfun$apply$4.apply(ScalaPlugin.scala:238)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1.apply(ScalaPlugin.scala:238)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1.apply(ScalaPlugin.scala:232)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.ScalaPlugin.elementChanged(ScalaPlugin.scala:232)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jdt.core 4 4 2017-04-11 03:23:51.735
+!MESSAGE Exception occurred in listener of Java element change notification
+!STACK 0
+java.util.zip.ZipException: invalid LOC header (bad signature)
+	at java.util.zip.ZipFile.read(Native Method)
+	at java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:717)
+	at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:419)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.eclipse.jdt.internal.compiler.util.Util.getInputStreamAsByteArray(Util.java:525)
+	at org.eclipse.jdt.internal.compiler.util.Util.getZipEntryByteContent(Util.java:691)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:56)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.getVersion$1(ClasspathManagement.scala:443)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:452)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:449)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber(ClasspathManagement.scala:449)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:305)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:289)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:289)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.checkClasspath(ClasspathManagement.scala:351)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.classpathHasChanged(ClasspathManagement.scala:243)
+	at org.scalaide.core.internal.project.ScalaProject.classpathHasChanged(ScalaProject.scala:147)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1$$anonfun$apply$4.apply(ScalaPlugin.scala:238)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1$$anonfun$apply$4.apply(ScalaPlugin.scala:238)
+	at scala.Option.foreach(Option.scala:257)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1.apply(ScalaPlugin.scala:238)
+	at org.scalaide.core.internal.ScalaPlugin$$anonfun$elementChanged$1.apply(ScalaPlugin.scala:232)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.ScalaPlugin.elementChanged(ScalaPlugin.scala:232)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:157)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.core.resources 4 2 2017-04-11 03:23:52.337
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.core.resources".
+!STACK 1
+Java Model Exception: java.util.zip.ZipException: invalid LOC header (bad signature)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:59)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.getVersion$1(ClasspathManagement.scala:443)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:452)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:449)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber(ClasspathManagement.scala:449)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:305)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:289)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:289)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.checkClasspath(ClasspathManagement.scala:351)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.isClasspathValid(ClasspathManagement.scala:228)
+	at org.scalaide.core.internal.project.ScalaProject.isClasspathValid(ScalaProject.scala:147)
+	at org.scalaide.core.internal.builder.ScalaBuilder.build(ScalaBuilder.scala:46)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.util.zip.ZipException: invalid LOC header (bad signature)
+	at java.util.zip.ZipFile.read(Native Method)
+	at java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:717)
+	at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:419)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.eclipse.jdt.internal.compiler.util.Util.getInputStreamAsByteArray(Util.java:525)
+	at org.eclipse.jdt.internal.compiler.util.Util.getZipEntryByteContent(Util.java:691)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:56)
+	... 30 more
+Caused by: java.util.zip.ZipException: invalid LOC header (bad signature)
+	at java.util.zip.ZipFile.read(Native Method)
+	at java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:717)
+	at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:419)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.eclipse.jdt.internal.compiler.util.Util.getInputStreamAsByteArray(Util.java:525)
+	at org.eclipse.jdt.internal.compiler.util.Util.getZipEntryByteContent(Util.java:691)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:56)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.getVersion$1(ClasspathManagement.scala:443)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:452)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:449)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber(ClasspathManagement.scala:449)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:305)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:289)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:289)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.checkClasspath(ClasspathManagement.scala:351)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.isClasspathValid(ClasspathManagement.scala:228)
+	at org.scalaide.core.internal.project.ScalaProject.isClasspathValid(ScalaProject.scala:147)
+	at org.scalaide.core.internal.builder.ScalaBuilder.build(ScalaBuilder.scala:46)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2017-04-11 03:23:52.337
+!MESSAGE invalid LOC header (bad signature)
+!STACK 0
+java.util.zip.ZipException: invalid LOC header (bad signature)
+	at java.util.zip.ZipFile.read(Native Method)
+	at java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:717)
+	at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:419)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.eclipse.jdt.internal.compiler.util.Util.getInputStreamAsByteArray(Util.java:525)
+	at org.eclipse.jdt.internal.compiler.util.Util.getZipEntryByteContent(Util.java:691)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:56)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.getVersion$1(ClasspathManagement.scala:443)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:452)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:449)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber(ClasspathManagement.scala:449)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:305)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:289)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:289)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.checkClasspath(ClasspathManagement.scala:351)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.isClasspathValid(ClasspathManagement.scala:228)
+	at org.scalaide.core.internal.project.ScalaProject.isClasspathValid(ScalaProject.scala:147)
+	at org.scalaide.core.internal.builder.ScalaBuilder.build(ScalaBuilder.scala:46)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2017-04-11 03:23:52.337
+!MESSAGE invalid LOC header (bad signature)
+!STACK 0
+java.util.zip.ZipException: invalid LOC header (bad signature)
+	at java.util.zip.ZipFile.read(Native Method)
+	at java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:717)
+	at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:419)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.eclipse.jdt.internal.compiler.util.Util.getInputStreamAsByteArray(Util.java:525)
+	at org.eclipse.jdt.internal.compiler.util.Util.getZipEntryByteContent(Util.java:691)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:56)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.getVersion$1(ClasspathManagement.scala:443)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:452)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:449)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber(ClasspathManagement.scala:449)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:305)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:289)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:289)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.checkClasspath(ClasspathManagement.scala:351)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.isClasspathValid(ClasspathManagement.scala:228)
+	at org.scalaide.core.internal.project.ScalaProject.isClasspathValid(ScalaProject.scala:147)
+	at org.scalaide.core.internal.builder.ScalaBuilder.build(ScalaBuilder.scala:46)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:23:52.384
+!MESSAGE The POM for org.apache.spark:spark-streaming-kafka_2.10:jar:1.8.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:23:53.251
+!MESSAGE The POM for org.apache.spark:spark-streaming-kafka_2.10:jar:1.8.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:23:53.389
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:23:53.395
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.core.resources 4 75 2017-04-11 03:23:53.438
+!MESSAGE Errors occurred during the build.
+!SUBENTRY 1 org.scala-ide.sdt.core 4 75 2017-04-11 03:23:53.438
+!MESSAGE Errors running builder 'Scala Builder' on project 'youtubedatasparkprocessing'.
+!STACK 1
+Java Model Exception: java.util.zip.ZipException: invalid LOC header (bad signature)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:59)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.getVersion$1(ClasspathManagement.scala:443)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:452)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:449)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber(ClasspathManagement.scala:449)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:305)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:289)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:289)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.checkClasspath(ClasspathManagement.scala:351)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.isClasspathValid(ClasspathManagement.scala:228)
+	at org.scalaide.core.internal.project.ScalaProject.isClasspathValid(ScalaProject.scala:147)
+	at org.scalaide.core.internal.builder.ScalaBuilder.build(ScalaBuilder.scala:46)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.util.zip.ZipException: invalid LOC header (bad signature)
+	at java.util.zip.ZipFile.read(Native Method)
+	at java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:717)
+	at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:419)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.eclipse.jdt.internal.compiler.util.Util.getInputStreamAsByteArray(Util.java:525)
+	at org.eclipse.jdt.internal.compiler.util.Util.getZipEntryByteContent(Util.java:691)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:56)
+	... 30 more
+Caused by: java.util.zip.ZipException: invalid LOC header (bad signature)
+	at java.util.zip.ZipFile.read(Native Method)
+	at java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:717)
+	at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:419)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.eclipse.jdt.internal.compiler.util.Util.getInputStreamAsByteArray(Util.java:525)
+	at org.eclipse.jdt.internal.compiler.util.Util.getZipEntryByteContent(Util.java:691)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:56)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.getVersion$1(ClasspathManagement.scala:443)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:452)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:449)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber(ClasspathManagement.scala:449)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:305)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:289)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:289)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.checkClasspath(ClasspathManagement.scala:351)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.isClasspathValid(ClasspathManagement.scala:228)
+	at org.scalaide.core.internal.project.ScalaProject.isClasspathValid(ScalaProject.scala:147)
+	at org.scalaide.core.internal.builder.ScalaBuilder.build(ScalaBuilder.scala:46)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 2 org.eclipse.jdt.core 4 985 2017-04-11 03:23:53.438
+!MESSAGE invalid LOC header (bad signature)
+!STACK 0
+java.util.zip.ZipException: invalid LOC header (bad signature)
+	at java.util.zip.ZipFile.read(Native Method)
+	at java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:717)
+	at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:419)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.eclipse.jdt.internal.compiler.util.Util.getInputStreamAsByteArray(Util.java:525)
+	at org.eclipse.jdt.internal.compiler.util.Util.getZipEntryByteContent(Util.java:691)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:56)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.getVersion$1(ClasspathManagement.scala:443)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:452)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:449)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber(ClasspathManagement.scala:449)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:305)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:289)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:289)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.checkClasspath(ClasspathManagement.scala:351)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.isClasspathValid(ClasspathManagement.scala:228)
+	at org.scalaide.core.internal.project.ScalaProject.isClasspathValid(ScalaProject.scala:147)
+	at org.scalaide.core.internal.builder.ScalaBuilder.build(ScalaBuilder.scala:46)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 985 2017-04-11 03:23:53.438
+!MESSAGE invalid LOC header (bad signature)
+!STACK 0
+java.util.zip.ZipException: invalid LOC header (bad signature)
+	at java.util.zip.ZipFile.read(Native Method)
+	at java.util.zip.ZipFile.access$1400(ZipFile.java:60)
+	at java.util.zip.ZipFile$ZipFileInputStream.read(ZipFile.java:717)
+	at java.util.zip.ZipFile$ZipFileInflaterInputStream.fill(ZipFile.java:419)
+	at java.util.zip.InflaterInputStream.read(InflaterInputStream.java:158)
+	at java.io.BufferedInputStream.fill(BufferedInputStream.java:246)
+	at java.io.BufferedInputStream.read1(BufferedInputStream.java:286)
+	at java.io.BufferedInputStream.read(BufferedInputStream.java:345)
+	at org.eclipse.jdt.internal.compiler.util.Util.getInputStreamAsByteArray(Util.java:525)
+	at org.eclipse.jdt.internal.compiler.util.Util.getZipEntryByteContent(Util.java:691)
+	at org.eclipse.jdt.internal.core.JarEntryFile.getContents(JarEntryFile.java:56)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.getVersion$1(ClasspathManagement.scala:443)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:452)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber$1.apply(ClasspathManagement.scala:449)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.org$scalaide$core$internal$project$ClasspathManagement$$getVersionNumber(ClasspathManagement.scala:449)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:305)
+	at org.scalaide.core.internal.project.ClasspathManagement$$anonfun$scalaLibraries$2.apply(ClasspathManagement.scala:289)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.IndexedSeqOptimized$class.foreach(IndexedSeqOptimized.scala:33)
+	at scala.collection.mutable.ArrayOps$ofRef.foreach(ArrayOps.scala:186)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.scalaLibraries(ClasspathManagement.scala:289)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.checkClasspath(ClasspathManagement.scala:351)
+	at org.scalaide.core.internal.project.ScalaProject.checkClasspath(ScalaProject.scala:147)
+	at org.scalaide.core.internal.project.ClasspathManagement$class.isClasspathValid(ClasspathManagement.scala:228)
+	at org.scalaide.core.internal.project.ScalaProject.isClasspathValid(ScalaProject.scala:147)
+	at org.scalaide.core.internal.builder.ScalaBuilder.build(ScalaBuilder.scala:46)
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:735)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:206)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:246)
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:301)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:304)
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:360)
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:383)
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144)
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:25:09.457
+!MESSAGE The POM for org.apache.spark:spark-streaming-kafka_2.11:jar:2.1.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:25:11.177
+!MESSAGE The POM for org.apache.spark:spark-streaming-kafka_2.11:jar:2.1.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:25:11.287
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:25:11.288
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:25:35.275
+!MESSAGE The POM for org.apache.spark:spark-streaming-kafka_2.11:jar:2.11.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:25:36.172
+!MESSAGE The POM for org.apache.spark:spark-streaming-kafka_2.11:jar:2.11.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:25:36.289
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:25:36.292
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:27:15.521
+!MESSAGE The POM for org.apache.spark:spark-streaming-kafka_2.11:jar:2.1.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:27:17.737
+!MESSAGE The POM for org.apache.spark:spark-streaming-kafka_2.11:jar:2.1.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:27:17.880
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:27:17.905
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:27:26.576
+!MESSAGE The POM for org.apache.spark:spark-streaming-kafka_2.11:jar:2.1.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:31:10.012
+!MESSAGE The POM for org.apache.spark:spark-streaming-kafka_2.11:jar:2.1.0 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:31:10.159
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 03:31:10.193
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2017-04-11 03:55:25.172 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data file:/home/akarsh/workspace/YouTubeDataAnalysis/ -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2017-04-11 03:55:37.995
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-04-11 03:55:37.995
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@159408a7,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5354bfce,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-11 03:55:48.108
+!MESSAGE Project facet jst.web has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-11 03:55:48.108
+!MESSAGE Project facet jst.webfragment has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2017-04-11 04:15:23.146
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: Unable to read repository at http://download.eclipse.org/m2e-wtp/releases/juno/1.0.0/1.0.0.20130613-0136/m2e-wtp-jpa/content.jar.
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.updateCache(CacheManager.java:428)
+	at org.eclipse.equinox.internal.p2.repository.CacheManager.createCache(CacheManager.java:259)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.getLocalFile(SimpleMetadataRepositoryFactory.java:66)
+	at org.eclipse.equinox.internal.p2.metadata.repository.SimpleMetadataRepositoryFactory.load(SimpleMetadataRepositoryFactory.java:88)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor123.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor123.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog$13.run(MarketplaceCatalog.java:279)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient4.ECFHttpClientProtocolSocketFactory.connectSocket(ECFHttpClientProtocolSocketFactory.java:86)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:177)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:131)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:611)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:446)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1084)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:1075)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:1071)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.equinox.p2.transport.ecf 4 1002 2017-04-11 04:15:23.180
+!MESSAGE Unable to read repository at http://download.eclipse.org/m2e-wtp/releases/juno/1.0.0/1.0.0.20130613-0136/m2e-wtp-jpa/content.jar.
+!STACK 0
+java.net.SocketTimeoutException: connect timed out
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.AbstractPlainSocketImpl.doConnect(AbstractPlainSocketImpl.java:350)
+	at java.net.AbstractPlainSocketImpl.connectToAddress(AbstractPlainSocketImpl.java:206)
+	at java.net.AbstractPlainSocketImpl.connect(AbstractPlainSocketImpl.java:188)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:392)
+	at java.net.Socket.connect(Socket.java:589)
+	at org.eclipse.ecf.internal.provider.filetransfer.httpclient4.ECFHttpClientProtocolSocketFactory.connectSocket(ECFHttpClientProtocolSocketFactory.java:86)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:177)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:144)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:131)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:611)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:446)
+	at org.apache.http.impl.client.AbstractHttpClient.doExecute(AbstractHttpClient.java:863)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1084)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.access$0(HttpClientRetrieveFileTransfer.java:1075)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer$1.performFileTransfer(HttpClientRetrieveFileTransfer.java:1071)
+	at org.eclipse.ecf.filetransfer.FileTransferJob.run(FileTransferJob.java:74)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2017-04-11 04:16:19.673
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://download.eclipse.org/technology/m2e/releases-for-indigo/1.4/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:395)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.fail(CachingRepositoryManager.java:340)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:239)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.epp.internal.mpc.ui.catalog.MarketplaceCatalog$13.run(MarketplaceCatalog.java:279)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at java.lang.Thread.run(Thread.java:745)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2017-04-11 04:16:19.673
+!MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases-for-indigo/1.4/.
+!SESSION 2017-04-11 04:22:20.372 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2017-04-11 04:22:37.125
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-04-11 04:22:37.125
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@1e288c76,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@738ed8f5,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-11 04:22:51.051
+!MESSAGE Project facet jst.web has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-11 04:22:51.068
+!MESSAGE Project facet jst.webfragment has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 0 2017-04-11 04:34:59.532
+!MESSAGE Unexpected error loading extension: org.eclipse.equinox.p2.metadata.repository.compositeRepository
+!STACK 0
+org.eclipse.oomph.util.ReflectUtil$ReflectionException: java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:132)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.removeRepository(CachingRepositoryManager.java:417)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:225)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor121.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor121.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.loadMetadataRepository(ProvisioningContext.java:211)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedMetadataRepositories(ProvisioningContext.java:194)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getMetadata(ProvisioningContext.java:275)
+	at org.eclipse.equinox.internal.p2.director.SimplePlanner.updatesFor(SimplePlanner.java:784)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.updatesFor(UpdateOperation.java:142)
+	at org.eclipse.equinox.p2.operations.UpdateOperation.computeProfileChangeRequest(UpdateOperation.java:179)
+	at org.eclipse.equinox.p2.operations.UpdateOperation$1.run(UpdateOperation.java:323)
+	at org.eclipse.equinox.internal.p2.operations.SearchForUpdatesResolutionJob.runModal(SearchForUpdatesResolutionJob.java:37)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+Caused by: java.lang.IllegalStateException: BundleContext is no longer valid
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.checkValid(BundleContextImpl.java:984)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.getServiceReference(BundleContextImpl.java:559)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.getServiceReference(BundleContextImpl.java:1011)
+	at org.eclipse.equinox.internal.p2.core.helpers.ServiceHelper.getService(ServiceHelper.java:27)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.getSharedPreferences(AbstractRepositoryManager.java:512)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.restoreRepositories(AbstractRepositoryManager.java:1016)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.removeRepository(AbstractRepositoryManager.java:928)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	... 43 more
+!SESSION 2017-04-11 04:35:02.332 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2017-04-11 04:35:42.756
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-04-11 04:35:42.756
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@18bc1064,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3cab07dd,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-11 04:35:54.943
+!MESSAGE Project facet jst.web has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-11 04:35:54.944
+!MESSAGE Project facet jst.webfragment has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+!SESSION 2017-04-11 05:41:50.650 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data file:/home/akarsh/workspace/YouTubeDataAnalysis/ -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2017-04-11 05:42:05.000
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-04-11 05:42:05.000
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3df681cc,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3ba815ee,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-11 05:42:16.704
+!MESSAGE Project facet jst.web has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-11 05:42:16.707
+!MESSAGE Project facet jst.webfragment has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2017-04-11 05:43:44.632
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://download.eclipse.org/technology/m2e/releases-for-indigo/1.4/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:395)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.fail(CachingRepositoryManager.java:340)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:239)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.doLoad(LoadMetadataRepositoryJob.java:117)
+	at org.eclipse.equinox.p2.ui.LoadMetadataRepositoryJob.runModal(LoadMetadataRepositoryJob.java:102)
+	at org.eclipse.equinox.internal.p2.ui.sdk.PreloadingRepositoryHandler$2.runModal(PreloadingRepositoryHandler.java:83)
+	at org.eclipse.equinox.p2.operations.ProvisioningJob.run(ProvisioningJob.java:177)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2017-04-11 05:43:44.644
+!MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases-for-indigo/1.4/.
+
+!ENTRY org.eclipse.equinox.p2.core 4 0 2017-04-11 05:43:51.421
+!MESSAGE Provisioning exception
+!STACK 1
+org.eclipse.equinox.p2.core.ProvisionException: No repository found at http://download.eclipse.org/technology/m2e/releases-for-indigo/1.4/.
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.fail(AbstractRepositoryManager.java:395)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.fail(CachingRepositoryManager.java:340)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:239)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor119.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.addChild(CompositeMetadataRepository.java:166)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository.<init>(CompositeMetadataRepository.java:106)
+	at org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepositoryFactory.load(CompositeMetadataRepositoryFactory.java:122)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.factoryLoad(MetadataRepositoryManager.java:57)
+	at org.eclipse.equinox.internal.p2.repository.helpers.AbstractRepositoryManager.loadRepository(AbstractRepositoryManager.java:768)
+	at sun.reflect.GeneratedMethodAccessor119.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.oomph.util.ReflectUtil.invokeMethod(ReflectUtil.java:117)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:396)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager.loadRepository(CachingRepositoryManager.java:199)
+	at org.eclipse.oomph.p2.internal.core.CachingRepositoryManager$Metadata.loadRepository(CachingRepositoryManager.java:463)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:96)
+	at org.eclipse.equinox.internal.p2.metadata.repository.MetadataRepositoryManager.loadRepository(MetadataRepositoryManager.java:92)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.loadMetadataRepository(ProvisioningContext.java:211)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getLoadedMetadataRepositories(ProvisioningContext.java:194)
+	at org.eclipse.equinox.p2.engine.ProvisioningContext.getMetadata(ProvisioningContext.java:275)
+	at org.eclipse.equinox.internal.p2.director.SimplePlanner.gatherAvailableInstallableUnits(SimplePlanner.java:267)
+	at org.eclipse.equinox.internal.p2.director.SimplePlanner.getSolutionFor(SimplePlanner.java:328)
+	at org.eclipse.equinox.internal.p2.director.SimplePlanner.getProvisioningPlan(SimplePlanner.java:387)
+	at org.eclipse.equinox.internal.p2.operations.PlannerResolutionJob.runModal(PlannerResolutionJob.java:76)
+	at org.eclipse.equinox.p2.operations.ProfileChangeOperation.resolveModal(ProfileChangeOperation.java:115)
+	at org.eclipse.equinox.internal.p2.ui.dialogs.ProvisioningOperationWizard$2.run(ProvisioningOperationWizard.java:289)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+!SUBENTRY 1 org.eclipse.equinox.p2.metadata.repository 4 1000 2017-04-11 05:43:51.422
+!MESSAGE No repository found at http://download.eclipse.org/technology/m2e/releases-for-indigo/1.4/.
+!SESSION 2017-04-11 05:44:48.563 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data file:/home/akarsh/workspace/YouTubeDataAnalysis/ -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2017-04-11 05:45:03.815
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-04-11 05:45:03.815
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@27bc2650,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5c40402c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-11 05:45:16.111
+!MESSAGE Project facet jst.web has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-11 05:45:16.112
+!MESSAGE Project facet jst.webfragment has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 05:50:46.292
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 05:50:46.377
+!MESSAGE Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+!SESSION 2017-04-11 19:30:16.465 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2017-04-11 19:30:33.176
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2017-04-11 19:30:33.176
+!MESSAGE A conflict occurred for CTRL+F4:
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.eclipse.ui.file.close,Close,
+		Close the active editor,
+		Category(org.eclipse.ui.category.file,File,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@dcdb883,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+F4,
+	ParameterizedCommand(Command(org.scala.tools.eclipse.search.commands.OpenTypeHierarchy,Open Type Hierarchy,
+		Open Type Hierarchy,
+		Category(org.scala.tools.eclipse.search.commands,Search - Scala,Search - Scala,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@39420d59,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-11 19:30:59.040
+!MESSAGE Project facet jst.web has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.wst.common.project.facet.core 4 0 2017-04-11 19:30:59.041
+!MESSAGE Project facet jst.webfragment has not been defined. It is used in plugin org.eclipse.jst.j2ee.
+
+!ENTRY org.eclipse.equinox.ds 2 0 2017-04-11 19:31:04.735
+!MESSAGE Getting a lock required more than 10000 ms. There might be a synchronization problem in this callstack or just the build/dispose process of some components took too long! 
+!STACK 0
+java.lang.Exception: Debug stacktrace
+	at org.eclipse.equinox.internal.ds.InstanceProcess.getLock(InstanceProcess.java:120)
+	at org.eclipse.equinox.internal.ds.InstanceProcess.buildComponent(InstanceProcess.java:560)
+	at org.eclipse.equinox.internal.ds.ServiceReg.getService(ServiceReg.java:53)
+	at org.eclipse.osgi.internal.serviceregistry.ServiceFactoryUse$1.run(ServiceFactoryUse.java:212)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at org.eclipse.osgi.internal.serviceregistry.ServiceFactoryUse.factoryGetService(ServiceFactoryUse.java:210)
+	at org.eclipse.osgi.internal.serviceregistry.ServiceFactoryUse.getService(ServiceFactoryUse.java:111)
+	at org.eclipse.osgi.internal.serviceregistry.ServiceConsumer$2.getService(ServiceConsumer.java:45)
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistrationImpl.getService(ServiceRegistrationImpl.java:496)
+	at org.eclipse.osgi.internal.serviceregistry.ServiceRegistry.getService(ServiceRegistry.java:461)
+	at org.eclipse.osgi.internal.framework.BundleContextImpl.getService(BundleContextImpl.java:619)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningAgent.addingService(ProvisioningAgent.java:159)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:941)
+	at org.osgi.util.tracker.ServiceTracker$Tracked.customizerAdding(ServiceTracker.java:1)
+	at org.osgi.util.tracker.AbstractTracked.trackAdding(AbstractTracked.java:256)
+	at org.osgi.util.tracker.AbstractTracked.trackInitial(AbstractTracked.java:183)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:318)
+	at org.osgi.util.tracker.ServiceTracker.open(ServiceTracker.java:261)
+	at org.eclipse.equinox.internal.p2.core.ProvisioningAgent.getService(ProvisioningAgent.java:66)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springsource.ide.eclipse.commons.internal.core.net.P2TransportService.getTransport_e3_7(P2TransportService.java:80)
+	at org.springsource.ide.eclipse.commons.internal.core.net.P2TransportService.<init>(P2TransportService.java:52)
+	at org.springsource.ide.eclipse.commons.core.HttpUtil.getTransport(HttpUtil.java:151)
+	at org.springsource.ide.eclipse.commons.core.HttpUtil.stream(HttpUtil.java:165)
+	at org.springsource.ide.eclipse.dashboard.internal.ui.editors.AggregateFeedJob$1.run(AggregateFeedJob.java:145)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 19:38:20.540
+!MESSAGE The POM for org.apache.spark:spark-streaming_2.10:jar:2.11.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 19:39:08.864
+!MESSAGE The POM for org.apache.spark:spark-streaming_2.11:jar:2.11.8 is missing, no dependency information available
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2017-04-11 19:39:10.181
+!MESSAGE The POM for org.apache.spark:spark-streaming_2.11:jar:2.11.8 is missing, no dependency information available

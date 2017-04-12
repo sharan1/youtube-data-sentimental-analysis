@@ -5,7 +5,63 @@
   <link rel="self" href="https://spring.io/blog.atom" />
   <id>http://spring.io/blog.atom</id>
   <icon>https://spring.io/favicon.ico</icon>
-  <updated>2017-04-05T20:27:53Z</updated>
+  <updated>2017-04-11T18:36:00Z</updated>
+  <entry>
+    <title>This Week in Spring - April 11th, 2017</title>
+    <link rel="alternate" href="https://spring.io/blog/2017/04/11/this-week-in-spring-april-11th-2017" />
+    <category term="engineering" label="Engineering" />
+    <author>
+      <name>Josh Long</name>
+    </author>
+    <id>tag:spring.io,2017-04-11:2894</id>
+    <updated>2017-04-11T18:36:00Z</updated>
+    <content type="html">&lt;p&gt;Welcome to another installation of &lt;em&gt;This Week in Spring&lt;/em&gt;!&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Spring Integration ninja Artem Bilan &lt;a href="https://spring.io/blog/2017/04/05/spring-integration-5-0-milestone-3-available"&gt;just announced Spring Integration 5.0.M3&lt;/a&gt;. The new release includes an integration test framework, speed improvements, support for the Spring 5 reactive &lt;code&gt;WebClient&lt;/code&gt;, retroactive restoration of file trees when using the (S)FTP and AWS S3 inbound adapters, a smarter SOAP web-services gateway, and much more.&lt;/li&gt;
+  &lt;li&gt;Spring Integration lead Gary Russell just announced &lt;a href="https://spring.io/blog/2017/04/07/spring-for-apache-kafka-1-2-0-and-1-1-4-available"&gt;Spring for Apache Kafka 1.2.0 and 1.1.4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Andy Wilkinson just debuted a look at &lt;a href="https://spring.io/blog/2017/04/05/spring-boot-s-new-gradle-plugin"&gt;the new Gradle Spring Boot 2.0 plugin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;in last week&amp;rsquo;s &lt;em&gt;Spring Tips&lt;/em&gt; I looked at &lt;a href="https://spring.io/blog/2017/04/05/spring-tips-creating-a-spring-security-oauth-auth-service"&gt;how to standup a Spring Cloud Security-powered OAuth auth service&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://spring.io/blog/2017/04/04/spring-amqp-2-0-0-milestone-3-is-available"&gt;Spring AMQP lead Gary Russell just announced Spring AMQP 2.0.0M3&lt;/a&gt;, &lt;em&gt;packed&lt;/em&gt; with new features supporting testing, smarter handling for &lt;code&gt;null&lt;/code&gt; messages, and so much more.&lt;/li&gt;
+  &lt;li&gt;Are you going to be at not-to-miss OSCON event in Austin, TX? &lt;a href="https://spring.io/blog/2017/04/03/spring-team-and-pivotal-at-oscon-austin-2017"&gt;We&amp;rsquo;d love to see you&lt;/a&gt;! I&amp;rsquo;ll be there, too!&lt;/li&gt;
+  &lt;li&gt;I enjoyed revisting this &lt;a href="https://www.youtube.com/watch?v=Uiqb8q02ZSw"&gt;video from the Cloud Foundry launch event&lt;/a&gt;. My memory is hazy, but that event - I think - was April 11th, and uploaded on April 12th. Either way, happy birthday Cloud Foundry! You&amp;rsquo;ve changed the world with style.&lt;/li&gt;
+  &lt;li&gt;Jared Ruckle has a great look all &lt;a href="https://content.pivotal.io/blog/always-be-shipping-with-pivotal-cloud-foundry-1-10-go-fast-go-secure-and-go-net"&gt;the new features in PCF 1.10&lt;/a&gt; - check it out!&lt;/li&gt;
+  &lt;li&gt;if you want to learn more about our thinking about taking Cloud Foundry to market, you&amp;rsquo;ll love this a16z podcast with one of Pivotal&amp;rsquo;s visionaries, &lt;a href="http://a16z.com/2017/04/10/monetizing-open-source-enterprise-software/"&gt;James Watters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I liked this quick look &lt;a href="https://dzone.com/articles/spring-data-jpa-with-an-embedded-database-and-spring-boot"&gt;by Gaurav Rai Mazra at using Spring Data JPA with an embedded database&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Andreas Falk has a nice article on &lt;a href="http://www.novatec-gmbh.de/aktuelles/news/detailansicht-nachrichten/veroeffentlichung-von-andreas-falk-im-java-magazin-52017-sicher-in-die-cloud-mit-angular-2-und-spring/"&gt;securing Spring and Angular.js applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;the Baeldung site has done yet another very interesting look at &lt;a href="http://www.baeldung.com/java-in-2017"&gt;the trends in Java, pointing again to the continued growth of Spring Boot and Java 8&lt;/a&gt; - good news!&lt;/li&gt;
+  &lt;li&gt;just a friendly reminder, Alibaba uses Spring throughout &lt;a href="https://twitter.com/linux_china/status/851261770010210305"&gt;and AliExpress, which serves 100+ million uses, is using Spring Boot and Spring Cloud&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I hope you&amp;rsquo;ll join me and &lt;a href="https://voxxeddays.com/singapore/"&gt;many others at Voxxed Days Singapore&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Alex Falappa‏ hints at some of the &lt;a href="https://twitter.com/aless_falappa/status/850771695656980480"&gt;very cool new support for Apache NetBeans&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Stefan Rempfer put together a nice example &lt;a href="https://github.com/srempfer/spring-cloud-vaadin-proxy-sample"&gt;of using Spring Cloud Zuul with Vaadin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;I &lt;em&gt;love&lt;/em&gt; this blog by Robert Kapala on &lt;a href="https://blog.gft.com/blog/2017/04/07/migrating-to-spring-boot-in-an-investment-bank"&gt;how they migrated their investment bank to Spring Boot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Jonas Hecht put together a nice post on running &lt;a href="https://blog.codecentric.de/en/2017/04/ansible-docker-windows-containers-spring-boot/"&gt;Spring Boot applications on Windows using Ansible&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+  </entry>
+  <entry>
+    <title>Spring For Apache Kafka 1.2.0 and 1.1.4 Available</title>
+    <link rel="alternate" href="https://spring.io/blog/2017/04/07/spring-for-apache-kafka-1-2-0-and-1-1-4-available" />
+    <category term="releases" label="Releases" />
+    <author>
+      <name>Gary Russell</name>
+    </author>
+    <id>tag:spring.io,2017-04-07:2892</id>
+    <updated>2017-04-07T15:41:27Z</updated>
+    <content type="html">&lt;div class="paragraph"&gt;
+&lt;p&gt;We are pleased to announce that these maintenance releases of Spring for Apache Kafka are now available, 1.2.0.RELEASE and 1.1.4.RELEASE.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="paragraph"&gt;
+&lt;p&gt;These versions include several bug fixes and improvements, as well as introduce support for &lt;a href="http://docs.spring.io/spring-kafka/docs/1.2.0.RELEASE/reference/htmlsingle/#kafka-streams"&gt;KStreams&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="paragraph"&gt;
+&lt;p&gt;They are functionally equivalent; the 1.2.0.RELEASE is based on the 0.10.2.0 &lt;code&gt;kafka-clients&lt;/code&gt; jar and 1.1.4.RELEASE can be used with 0.10.0.x and 0.10.1.x.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="paragraph"&gt;
+&lt;p&gt;While 1.1.4.RELEASE will work at runtime with a 0.10.2.x client library, some breaking changes in the embedded kafka API means that the embedded kafka Junit &lt;code&gt;@Rule&lt;/code&gt; in &lt;code&gt;spring-kafka-test&lt;/code&gt; will not work and 1.2.0.RELEASE is required for that.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="paragraph"&gt;
+&lt;p&gt;&lt;a href="http://projects.spring.io/spring-kafka/"&gt;Project Page&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-kafka/issues"&gt;Issues&lt;/a&gt; | &lt;a href="https://github.com/spring-projects/spring-kafka/blob/master/CONTRIBUTING.adoc"&gt;Contributing&lt;/a&gt; | &lt;a href="http://stackoverflow.com/questions/tagged/spring-kafka"&gt;Help&lt;/a&gt; | &lt;a href="https://gitter.im/spring-projects/spring-kafka"&gt;Chat&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</content>
+  </entry>
   <entry>
     <title>Spring Integration 5.0 Milestone 3 Available</title>
     <link rel="alternate" href="https://spring.io/blog/2017/04/05/spring-integration-5-0-milestone-3-available" />
@@ -836,46 +892,5 @@ public static class {
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;</content>
-  </entry>
-  <entry>
-    <title>Spring Vault 1.0 RC1 is now available</title>
-    <link rel="alternate" href="https://spring.io/blog/2017/03/16/spring-vault-1-0-rc1-is-now-available" />
-    <category term="releases" label="Releases" />
-    <author>
-      <name>Mark Paluch</name>
-    </author>
-    <id>tag:spring.io,2017-03-16:2871</id>
-    <updated>2017-03-16T16:44:36Z</updated>
-    <content type="html">&lt;p&gt;On behalf of the community, I am pleased to announce Spring Vault 1.0 RC1.&lt;/p&gt;
-&lt;p&gt;The artifacts are available in the &lt;a href="http://repo.spring.io/libs-milestone"&gt;Milestone repo&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Spring Vault includes &lt;a href="https://github.com/spring-projects/spring-vault/milestone/5?closed=1"&gt;15 fixes, improvements and dependency upgrades&lt;/a&gt;. &lt;/p&gt;
-&lt;p&gt;Here’s a short-list of the most important features shipping with the release:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Support for renewable &lt;code&gt;@VaultPropertySource&lt;/code&gt; with credentials rotation&lt;/li&gt;
-  &lt;li&gt;Reshaping APIs dropping &lt;code&gt;VaultClient&lt;/code&gt; and using &lt;code&gt;RestTemplate&lt;/code&gt; instead&lt;/li&gt;
-  &lt;li&gt;Added &lt;code&gt;EnvironmentVaultConfiguration&lt;/code&gt; for simplified configuration without the need to create a derived configuration class.&lt;/li&gt;
-&lt;/ul&gt;&lt;h2&gt;&lt;a href="#contributions" class="anchor" name="contributions"&gt;&lt;/a&gt;Contributions&lt;/h2&gt;
-&lt;p&gt;Without the community, we couldn’t be the successful project we are today. I’d like to thank everyone that created issues &amp;amp; provided feedback.&lt;/p&gt;&lt;h2&gt;&lt;a href="#feedback-please" class="anchor" name="feedback-please"&gt;&lt;/a&gt;Feedback Please&lt;/h2&gt;
-&lt;p&gt;If you have feedback on this release, I encourage you to reach out via &lt;a href="http://stackoverflow.com/questions/tagged/spring-vault"&gt;StackOverflow&lt;/a&gt;, &lt;a href="https://github.com/spring-projects/spring-vault/issues"&gt;GitHub Issues&lt;/a&gt;, or via the comments section. You can also ping me &lt;a href="https://twitter.com/mp911de"&gt;@mp911&lt;/a&gt; or the &lt;a href="https://twitter.com/SpringCloud"&gt;@SpringCloud&lt;/a&gt; team on Twitter.&lt;/p&gt;&lt;h2&gt;&lt;a href="#next-steps" class="anchor" name="next-steps"&gt;&lt;/a&gt;Next Steps&lt;/h2&gt;
-&lt;p&gt;The upcoming Spring Cloud Vault Config 1.0 RC release will depend on Spring Vault RC1 and will be shipped as part of the upcoming Spring Cloud Dalston RC1 release train. Expect a GA release soon.&lt;/p&gt;
-&lt;p&gt;Check out any of these links for more details:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://projects.spring.io/spring-vault/"&gt;Spring Vault Project page&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://docs.spring.io/spring-vault/docs/1.0.0.RC1/reference/html/"&gt;Spring Vault Project documentation&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://github.com/mp911de/spring-cloud-vault-config-samples"&gt;Examples&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</content>
-  </entry>
-  <entry>
-    <title>Spring Tips: the Spring Web Flux Reactive Client</title>
-    <link rel="alternate" href="https://spring.io/blog/2017/03/15/spring-tips-the-spring-web-flux-reactive-client" />
-    <category term="engineering" label="Engineering" />
-    <author>
-      <name>Josh Long</name>
-    </author>
-    <id>tag:spring.io,2017-03-15:2870</id>
-    <updated>2017-03-15T01:00:00Z</updated>
-    <content type="html">&lt;p&gt;Speaker: &lt;a href="https://www.twitter.com/starbuxman"&gt;Josh Long&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Hi Spring fans! in this installment, we&amp;rsquo;ll look at the reactive &lt;code&gt;WebClient&lt;/code&gt; and &lt;code&gt;WebTestClient&lt;/code&gt; in Spring Web Flux, the reactive web stack in Spring framework 5, due this summer.&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/leZdgr-O4LE" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</content>
   </entry>
 </feed>

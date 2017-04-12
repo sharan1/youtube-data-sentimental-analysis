@@ -1,2 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.apache.kafka.clients.producer.Producer"/>
+<fullyQualifiedTypeName name="group13.bigdata.youtubedatastream.YoutubeDataProducer"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="java.util.StringJoiner"/>
+<fullyQualifiedTypeName name="group13.bigdata.youtubedatastream.Constants"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,18 @@
+package group13.bigdata.youtubedatastream;
+
+public class Constants {
+
+	public static final String ID = "id";
+	public static final String VIDEO_ID = "id";
+	public static final String SNIPPET = "id";
+	public static final String VIDEO_TITLE = "id";
+	public static final String VIDEO_DESC = "id";
+	public static final String COMMEXT_TEXT = "id";
+	public static final String VIDEO_BASE_URL = "";
+	public static final String COMMENT_BASE_URL = "";
+	public static final String API_KEY = "AIzaSyARdxaSF7zr04mQ50woOSEwB9MLG4B3Kms";
+	public static final long NUMBER_OF_COMMENTS_PER_VIDEO = 100;
+	public static final String TOPIC_NAME = "test";
+
+	
+}

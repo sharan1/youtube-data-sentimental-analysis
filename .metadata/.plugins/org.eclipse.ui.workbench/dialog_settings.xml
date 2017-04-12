@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item value="518" key="DIALOG_X_ORIGIN"/>
+		<item value="81" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
 		<item value="-1" key="dialogHeight"/>
 		<item value="-1" key="dialogWidth"/>
@@ -13,5 +17,18 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
+		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
+			<item value="org.eclipse.m2e"/>
+		</list>
+	</section>
+	<section name="InstallationDialogSettings">
+		<item value="794" key="DIALOG_WIDTH"/>
+		<item value="1|Ubuntu|11.0|0|GTK|1|" key="DIALOG_FONT_NAME"/>
+		<item value="823" key="DIALOG_HEIGHT"/>
+		<item value="412" key="DIALOG_X_ORIGIN"/>
+		<item value="55" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="ImportExportAction">
 	</section>
 </section>
