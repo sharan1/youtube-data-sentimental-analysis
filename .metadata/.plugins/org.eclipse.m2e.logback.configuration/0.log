@@ -1521,3 +1521,410 @@ java.lang.NullPointerException: null
 2017-04-11 21:01:58,889 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
 2017-04-11 21:01:58,919 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2017-04-11 21:01:58,920 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:09:43,944 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:09:43,945 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:09:43,960 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:09:43,960 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:14:43,098 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:14:43,098 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:14:43,099 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:14:43,099 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:15:02,306 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:15:02,323 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:15:02,345 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:15:02,345 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:15:34,239 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:15:34,239 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:15:34,241 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:15:34,241 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:15:51,506 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:15:51,506 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:15:51,511 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:15:51,512 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:18:52,614 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:18:52,614 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:18:52,615 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:18:52,615 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:20:01,467 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:20:01,467 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:20:01,469 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:20:01,469 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:20:54,946 [Worker-37] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: group13.bigdata:youtubedataprocessingspark:0.0.1-SNAPSHOT @ /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/pom.xml.
+2017-04-11 23:20:55,199 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka_2.11/0.10.2.0/kafka_2.11-0.10.2.0.pom
+2017-04-11 23:20:55,251 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka_2.11/0.10.2.0/kafka_2.11-0.10.2.0.pom
+2017-04-11 23:20:55,305 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.pom
+2017-04-11 23:20:55,337 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.pom
+2017-04-11 23:20:55,404 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.21/slf4j-log4j12-1.7.21.pom
+2017-04-11 23:20:55,426 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.7.21/slf4j-log4j12-1.7.21.pom
+2017-04-11 23:20:55,465 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/101tec/zkclient/0.10/zkclient-0.10.pom
+2017-04-11 23:20:55,493 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/101tec/zkclient/0.10/zkclient-0.10.pom
+2017-04-11 23:20:55,529 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper/3.4.8/zookeeper-3.4.8.pom
+2017-04-11 23:20:55,689 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper/3.4.8/zookeeper-3.4.8.pom
+2017-04-11 23:20:55,742 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.pom
+2017-04-11 23:20:55,768 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.pom
+2017-04-11 23:20:55,802 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.pom
+2017-04-11 23:20:55,841 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.pom
+2017-04-11 23:20:55,868 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.pom
+2017-04-11 23:20:55,898 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/scala-library/2.11.6/scala-library-2.11.6.pom
+2017-04-11 23:20:58,047 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka_2.11/0.10.2.0/kafka_2.11-0.10.2.0.jar
+2017-04-11 23:21:00,042 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka_2.11/0.10.2.0/kafka_2.11-0.10.2.0.jar
+2017-04-11 23:21:00,422 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar
+2017-04-11 23:21:00,457 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/jopt-simple/jopt-simple/5.0.3/jopt-simple-5.0.3.jar
+2017-04-11 23:21:00,485 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/101tec/zkclient/0.10/zkclient-0.10.jar
+2017-04-11 23:21:00,536 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/101tec/zkclient/0.10/zkclient-0.10.jar
+2017-04-11 23:21:00,572 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar
+2017-04-11 23:21:00,983 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/zookeeper/zookeeper/3.4.9/zookeeper-3.4.9.jar
+2017-04-11 23:21:01,012 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar
+2017-04-11 23:21:01,146 [Worker-37] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/scala-lang/modules/scala-parser-combinators_2.11/1.0.4/scala-parser-combinators_2.11-1.0.4.jar
+2017-04-11 23:21:02,259 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:21:02,259 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:21:02,282 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:21:02,282 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:21:34,718 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark
+2017-04-11 23:21:34,718 [Worker-52] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-04-11 23:21:41,519 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:21:41,519 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:21:41,531 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:21:41,531 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:22:04,776 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark
+2017-04-11 23:22:04,777 [Worker-35] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-04-11 23:22:05,471 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:22:05,471 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:22:05,473 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:22:05,473 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:22:20,954 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:22:20,954 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:22:20,954 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:22:20,954 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:29:11,444 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:29:11,445 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:29:11,445 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:29:11,454 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:34:11,508 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:34:11,508 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:34:11,509 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:34:11,509 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:48:39,919 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:48:39,919 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:48:39,920 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:48:39,920 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:49:00,833 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:49:00,833 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:49:00,848 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:49:00,848 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:51:05,300 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: group13.bigdata:youtubedataprocessingspark:0.0.1-SNAPSHOT @ /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/pom.xml.
+2017-04-11 23:51:05,720 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0.pom
+2017-04-11 23:51:05,751 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0.pom
+2017-04-11 23:51:05,773 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-parent_2.11/2.1.0/spark-parent_2.11-2.1.0.pom
+2017-04-11 23:51:05,884 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-parent_2.11/2.1.0/spark-parent_2.11-2.1.0.pom
+2017-04-11 23:51:05,951 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.pom
+2017-04-11 23:51:05,996 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.pom
+2017-04-11 23:51:06,659 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-launcher_2.11/2.1.0/spark-launcher_2.11-2.1.0.pom
+2017-04-11 23:51:06,690 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-launcher_2.11/2.1.0/spark-launcher_2.11-2.1.0.pom
+2017-04-11 23:51:06,732 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-tags_2.11/2.1.0/spark-tags_2.11-2.1.0.pom
+2017-04-11 23:51:06,757 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-tags_2.11/2.1.0/spark-tags_2.11-2.1.0.pom
+2017-04-11 23:51:06,805 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-common_2.11/2.1.0/spark-network-common_2.11-2.1.0.pom
+2017-04-11 23:51:06,832 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-common_2.11/2.1.0/spark-network-common_2.11-2.1.0.pom
+2017-04-11 23:51:06,861 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final.pom
+2017-04-11 23:51:06,894 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final.pom
+2017-04-11 23:51:06,917 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.0.42.Final/netty-parent-4.0.42.Final.pom
+2017-04-11 23:51:06,952 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-parent/4.0.42.Final/netty-parent-4.0.42.Final.pom
+2017-04-11 23:51:06,997 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.pom
+2017-04-11 23:51:07,020 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.pom
+2017-04-11 23:51:07,057 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/41/commons-parent-41.pom
+2017-04-11 23:51:07,092 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/41/commons-parent-41.pom
+2017-04-11 23:51:07,116 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom
+2017-04-11 23:51:07,143 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom
+2017-04-11 23:51:07,176 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.5/jackson-databind-2.6.5.pom
+2017-04-11 23:51:07,200 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.5/jackson-databind-2.6.5.pom
+2017-04-11 23:51:07,226 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.2/jackson-parent-2.6.2.pom
+2017-04-11 23:51:07,256 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.2/jackson-parent-2.6.2.pom
+2017-04-11 23:51:07,289 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/24/oss-parent-24.pom
+2017-04-11 23:51:07,441 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/24/oss-parent-24.pom
+2017-04-11 23:51:07,475 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.pom
+2017-04-11 23:51:07,504 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.0/jackson-annotations-2.6.0.pom
+2017-04-11 23:51:07,529 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.1/jackson-parent-2.6.1.pom
+2017-04-11 23:51:07,557 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.6.1/jackson-parent-2.6.1.pom
+2017-04-11 23:51:07,594 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/23/oss-parent-23.pom
+2017-04-11 23:51:07,620 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/23/oss-parent-23.pom
+2017-04-11 23:51:07,663 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.5/jackson-core-2.6.5.pom
+2017-04-11 23:51:07,688 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.5/jackson-core-2.6.5.pom
+2017-04-11 23:51:07,717 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.5/jackson-annotations-2.6.5.pom
+2017-04-11 23:51:07,750 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.5/jackson-annotations-2.6.5.pom
+2017-04-11 23:51:07,793 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-shuffle_2.11/2.1.0/spark-network-shuffle_2.11-2.1.0.pom
+2017-04-11 23:51:07,818 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-shuffle_2.11/2.1.0/spark-network-shuffle_2.11-2.1.0.pom
+2017-04-11 23:51:07,898 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-unsafe_2.11/2.1.0/spark-unsafe_2.11-2.1.0.pom
+2017-04-11 23:51:07,928 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-unsafe_2.11/2.1.0/spark-unsafe_2.11-2.1.0.pom
+2017-04-11 23:51:08,611 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.6.5/jackson-module-scala_2.11-2.6.5.pom
+2017-04-11 23:51:08,643 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.6.5/jackson-module-scala_2.11-2.6.5.pom
+2017-04-11 23:51:08,685 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.6.5/jackson-module-paranamer-2.6.5.pom
+2017-04-11 23:51:08,711 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.6.5/jackson-module-paranamer-2.6.5.pom
+2017-04-11 23:51:08,753 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/razorvine/pyrolite/4.13/pyrolite-4.13.pom
+2017-04-11 23:51:08,775 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/razorvine/pyrolite/4.13/pyrolite-4.13.pom
+2017-04-11 23:51:08,806 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/py4j/py4j/0.10.4/py4j-0.10.4.pom
+2017-04-11 23:51:08,832 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/py4j/py4j/0.10.4/py4j-0.10.4.pom
+2017-04-11 23:51:08,863 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-crypto/1.0.0/commons-crypto-1.0.0.pom
+2017-04-11 23:51:08,891 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-crypto/1.0.0/commons-crypto-1.0.0.pom
+2017-04-11 23:51:08,925 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/40/commons-parent-40.pom
+2017-04-11 23:51:08,972 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/40/commons-parent-40.pom
+2017-04-11 23:51:09,187 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0.jar
+2017-04-11 23:51:09,893 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-streaming_2.11/2.1.0/spark-streaming_2.11-2.1.0.jar
+2017-04-11 23:51:09,923 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
+2017-04-11 23:51:13,095 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-core_2.11/2.1.0/spark-core_2.11-2.1.0.jar
+2017-04-11 23:51:13,121 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-launcher_2.11/2.1.0/spark-launcher_2.11-2.1.0.jar
+2017-04-11 23:51:13,165 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-launcher_2.11/2.1.0/spark-launcher_2.11-2.1.0.jar
+2017-04-11 23:51:13,201 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-common_2.11/2.1.0/spark-network-common_2.11-2.1.0.jar
+2017-04-11 23:51:13,872 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-common_2.11/2.1.0/spark-network-common_2.11-2.1.0.jar
+2017-04-11 23:51:13,916 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.5/jackson-annotations-2.6.5.jar
+2017-04-11 23:51:13,950 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.6.5/jackson-annotations-2.6.5.jar
+2017-04-11 23:51:13,978 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-shuffle_2.11/2.1.0/spark-network-shuffle_2.11-2.1.0.jar
+2017-04-11 23:51:14,015 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-network-shuffle_2.11/2.1.0/spark-network-shuffle_2.11-2.1.0.jar
+2017-04-11 23:51:14,043 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-unsafe_2.11/2.1.0/spark-unsafe_2.11-2.1.0.jar
+2017-04-11 23:51:14,072 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-unsafe_2.11/2.1.0/spark-unsafe_2.11-2.1.0.jar
+2017-04-11 23:51:14,106 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar
+2017-04-11 23:51:14,402 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar
+2017-04-11 23:51:14,436 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final.jar
+2017-04-11 23:51:15,057 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/netty/netty-all/4.0.42.Final/netty-all-4.0.42.Final.jar
+2017-04-11 23:51:15,090 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.5/jackson-databind-2.6.5.jar
+2017-04-11 23:51:15,365 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.6.5/jackson-databind-2.6.5.jar
+2017-04-11 23:51:15,392 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.5/jackson-core-2.6.5.jar
+2017-04-11 23:51:15,485 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-core/2.6.5/jackson-core-2.6.5.jar
+2017-04-11 23:51:15,515 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.6.5/jackson-module-scala_2.11-2.6.5.jar
+2017-04-11 23:51:15,701 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-scala_2.11/2.6.5/jackson-module-scala_2.11-2.6.5.jar
+2017-04-11 23:51:15,727 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.6.5/jackson-module-paranamer-2.6.5.jar
+2017-04-11 23:51:15,755 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-paranamer/2.6.5/jackson-module-paranamer-2.6.5.jar
+2017-04-11 23:51:15,785 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/razorvine/pyrolite/4.13/pyrolite-4.13.jar
+2017-04-11 23:51:15,827 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/razorvine/pyrolite/4.13/pyrolite-4.13.jar
+2017-04-11 23:51:15,856 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/net/sf/py4j/py4j/0.10.4/py4j-0.10.4.jar
+2017-04-11 23:51:15,934 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/net/sf/py4j/py4j/0.10.4/py4j-0.10.4.jar
+2017-04-11 23:51:15,962 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-crypto/1.0.0/commons-crypto-1.0.0.jar
+2017-04-11 23:51:16,022 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-crypto/1.0.0/commons-crypto-1.0.0.jar
+2017-04-11 23:51:16,054 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-tags_2.11/2.1.0/spark-tags_2.11-2.1.0.jar
+2017-04-11 23:51:16,077 [Worker-57] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-tags_2.11/2.1.0/spark-tags_2.11-2.1.0.jar
+2017-04-11 23:51:17,678 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:51:17,679 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:51:17,687 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:51:17,687 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:51:21,526 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark
+2017-04-11 23:51:21,526 [Worker-63] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-04-11 23:51:30,727 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:51:30,727 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:51:30,734 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:51:30,734 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:51:54,220 [Worker-64] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark
+2017-04-11 23:51:54,220 [Worker-64] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-04-11 23:51:54,890 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:51:54,890 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:51:54,903 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:51:54,904 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:52:14,750 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:52:14,750 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:52:14,766 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:52:14,766 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:53:03,162 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:53:03,162 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:53:03,163 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:53:03,163 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:53:39,979 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:53:39,979 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:53:39,997 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:53:39,997 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:53:52,463 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:53:52,463 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:53:52,464 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:53:52,464 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:55:46,242 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:55:46,242 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:55:46,245 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:55:46,245 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:56:09,750 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:56:09,751 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:56:09,777 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:56:09,777 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-11 23:58:52,588 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:58:52,588 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-11 23:58:52,588 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-11 23:58:52,588 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:02:51,177 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:02:51,177 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:02:51,187 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:02:51,190 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:07:51,233 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:07:51,233 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:07:51,249 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:07:51,249 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:14:04,880 [Worker-69] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: group13.bigdata:youtubedataprocessingspark:0.0.1-SNAPSHOT @ /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/pom.xml.
+2017-04-12 00:14:06,156 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.1.0/spark-streaming-kafka-0-10_2.11-2.1.0.pom
+2017-04-12 00:14:06,174 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.1.0/spark-streaming-kafka-0-10_2.11-2.1.0.pom
+2017-04-12 00:14:06,202 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka_2.11/0.10.0.1/kafka_2.11-0.10.0.1.pom
+2017-04-12 00:14:06,232 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka_2.11/0.10.0.1/kafka_2.11-0.10.0.1.pom
+2017-04-12 00:14:06,266 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/101tec/zkclient/0.8/zkclient-0.8.pom
+2017-04-12 00:14:06,503 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/101tec/zkclient/0.8/zkclient-0.8.pom
+2017-04-12 00:14:06,534 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1.pom
+2017-04-12 00:14:06,557 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/kafka/kafka-clients/0.10.0.1/kafka-clients-0.10.0.1.pom
+2017-04-12 00:14:06,685 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.1.0/spark-streaming-kafka-0-10_2.11-2.1.0.jar
+2017-04-12 00:14:06,830 [Worker-69] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/spark/spark-streaming-kafka-0-10_2.11/2.1.0/spark-streaming-kafka-0-10_2.11-2.1.0.jar
+2017-04-12 00:14:07,590 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:14:07,590 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:14:07,607 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:14:07,607 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:14:17,778 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark
+2017-04-12 00:14:17,778 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-04-12 00:14:40,566 [Worker-69] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark
+2017-04-12 00:14:40,566 [Worker-69] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2017-04-12 00:15:03,446 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate - /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark
+2017-04-12 00:15:03,446 [Worker-61] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2017-04-12 00:19:04,603 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:19:04,603 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:19:04,603 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:19:04,603 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:19:09,986 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:19:09,986 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:19:09,987 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:19:09,987 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:23:02,112 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:23:02,112 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:23:02,112 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:23:02,112 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:23:20,354 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:23:20,354 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:23:20,354 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:23:20,354 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:28:02,180 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:28:02,180 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:28:02,180 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:28:02,180 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:48:03,358 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:48:03,358 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:48:03,364 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:48:03,364 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:48:39,332 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:48:39,332 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:48:39,345 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:48:39,345 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:48:46,187 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:48:46,187 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:48:46,189 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:48:46,189 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:50:16,288 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:50:16,288 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:50:16,289 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:50:16,289 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:50:26,292 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:50:26,292 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:50:26,293 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:50:26,293 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:50:40,622 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:50:40,622 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:50:40,623 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:50:40,623 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:53:21,055 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:53:21,055 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:53:21,066 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:53:21,067 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:56:45,482 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:56:45,482 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:56:45,483 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:56:45,483 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:59:24,615 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:59:24,615 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:59:24,615 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:59:24,615 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 00:59:36,678 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:59:36,678 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 00:59:36,679 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 00:59:36,679 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:02:38,825 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:02:38,825 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:02:38,826 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:02:38,826 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:04:24,709 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:04:24,709 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:04:24,711 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:04:24,711 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:04:39,669 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:04:39,669 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:04:39,681 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:04:39,681 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:04:51,525 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:04:51,525 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:04:51,542 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:04:51,542 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:05:13,102 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:05:13,102 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:05:13,103 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:05:13,103 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:06:01,924 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:06:01,924 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:06:01,925 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:06:01,925 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:06:20,807 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:06:20,810 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:06:20,819 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:06:20,819 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:08:35,430 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:08:35,431 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:08:35,431 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:08:35,431 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:08:52,752 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:08:52,752 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:08:52,755 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:08:52,755 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:12:26,726 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:12:26,726 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:12:26,728 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:12:26,733 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:12:58,681 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:12:58,681 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:12:58,681 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:12:58,681 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:17:26,782 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:17:26,783 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:17:26,783 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:17:26,783 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:24:56,615 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:24:56,615 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:24:56,616 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:24:56,616 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:25:10,349 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:25:10,349 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:25:10,349 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:25:10,349 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:27:57,220 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:27:57,221 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:27:57,221 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:27:57,221 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:28:22,216 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:28:22,216 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:28:22,216 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:28:22,217 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:28:57,518 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:28:57,518 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:28:57,523 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:28:57,523 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:29:06,174 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:29:06,174 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:29:06,175 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:29:06,175 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:31:37,733 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:31:37,733 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:31:37,734 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:31:37,734 [Worker-109] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:36:37,827 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:36:37,827 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:36:37,828 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:36:37,828 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:36:46,320 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:36:46,320 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:36:46,321 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:36:46,321 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 01:37:06,171 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:37:06,171 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 01:37:06,179 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 01:37:06,179 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 14:14:47,367 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2017-04-12 14:16:08,688 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 14:16:08,694 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/main/resources
+2017-04-12 14:16:08,695 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-04-12 14:16:08,696 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/akarsh/workspace/YouTubeDataAnalysis/youtubedataprocessingspark/youtubedataprocessingspark/src/test/resources
+2017-04-12 19:05:44,232 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

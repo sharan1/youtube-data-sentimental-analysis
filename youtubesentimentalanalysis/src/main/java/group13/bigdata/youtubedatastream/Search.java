@@ -84,6 +84,12 @@ public class Search {
 								Comment com = new Comment(comment_text);
 								StringJoiner joiner = new StringJoiner("|");
 								joiner.add(video_id).add(video_title).add(video_desc).add(comment_text);
+								try {
+									Thread.sleep(300);
+								} catch (InterruptedException e) {
+									// TODO Auto-generated catch block
+									e.printStackTrace();
+								}
 								producer.produceYouTubeData(Constants.TOPIC_NAME, joiner.toString());
 								commentList.add(com);
 
@@ -117,7 +123,7 @@ public class Search {
 		System.out.print("Please enter a search term: ");
 		BufferedReader bReader = new BufferedReader(new InputStreamReader(System.in));
 		inputQuery = bReader.readLine();
-
+		inputQuery = inputQuery.replace(" ", "+");
 		if (inputQuery.length() < 1) {
 			// Use the string "Big Data" as a default.
 			inputQuery = "Big+Data";

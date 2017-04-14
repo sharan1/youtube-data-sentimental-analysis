@@ -17,7 +17,7 @@ import org.apache.spark.streaming.kafka010.ConsumerStrategies.Subscribe;
  * @author ${user.name}
  */
 object App {
-
+ 
   def main(args: Array[String]) {
 
     val kafkaParams = Map[String, Object](
@@ -28,7 +28,6 @@ object App {
       "auto.offset.reset" -> "latest");
 
     val topic = Array("test");
-
     val config = new SparkConf().setAppName("youtube-sentimental-analysis").setMaster("local[2]").set("spark.driver.host", "localhost");
 
     val sparkContext = new SparkContext(config);

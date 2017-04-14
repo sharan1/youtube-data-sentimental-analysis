@@ -1,0 +1,25 @@
+package group13.bigdata.youtubedataprocessingspark
+
+import org.apache.kafka.clients.consumer.{ConsumerConfig,KafkaConsumer};
+import kafka.utils.Logging;
+import kafka.consumer.KafkaStream;
+import org.apache.kafka.common.serialization.StringDeserializer;
+import java.util.concurrent._;
+import scala.collection._;
+import java.util.Properties;
+
+/**
+ * @author ${user.name}
+ */
+object App {
+  
+   
+  def main(args : Array[String]) {
+   
+    
+    
+  }
+  
+  
+
+}

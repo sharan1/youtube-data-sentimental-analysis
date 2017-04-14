@@ -1,0 +1,51 @@
+package group13.bigdata.youtubedataprocessingspark
+
+import org.apache.kafka.clients.consumer.{ ConsumerConfig, KafkaConsumer };
+import kafka.utils.Logging;
+import kafka.consumer.KafkaStream;
+import org.apache.kafka.common.serialization.StringDeserializer;
+import java.util.concurrent._;
+import scala.collection._;
+import java.util.Properties;
+import org.apache.spark._;
+import org.apache.spark.streaming._;
+import org.apache.spark.streaming.kafka010._;
+import org.apache.spark.streaming.kafka010.LocationStrategies.PreferConsistent;
+import org.apache.spark.streaming.kafka010.ConsumerStrategies.Subscribe;
+
+/**
+ * @author ${user.name}
+ */
+object App {
+
+  def main(args: Array[String]) {
+
+    val kafkaParams = Map[String, Object](
+      "bootstrap.servers" -> "localhost:9092,anotherhost:9092",
+      "key.deserializer" -> classOf[StringDeserializer],
+      "value.deserializer" -> classOf[StringDeserializer]);
+
+    val topic = Array("test");
+
+   val config = new SparkConf().setAppName("youtube-sentimental-analysis").setMaster("local[4]").set("spark.driver.host", "localhost");
+    
+    val sparkContext = new SparkContext();
+    sparkContext.setLogLevel("WARN");
+
+    val streamingSparkContext = new StreamingContext(sparkContext, Seconds(3));
+    val stream = KafkaUtils.createDirectStream[String, String](
+      streamingSparkContext,
+      PreferConsistent,
+      Subscribe[String, String](topic, kafkaParams));
+      
+      stream.foreachRDD(rdd=>{
+        
+        println("rdd partition size" + rdd.partitions.size  + "with" + rdd.count() );
+        rdd.foreach(record => println(record.value()));
+      });
+    
+      streamingSparkContext.start();
+      streamingSparkContext.awaitTermination();
+  }
+
+}

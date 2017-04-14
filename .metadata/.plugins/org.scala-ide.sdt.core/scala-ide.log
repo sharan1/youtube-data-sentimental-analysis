@@ -1339,3 +1339,530 @@ when weaving
 2017-04-11 21:01:58,947  WARN [Worker-26] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
 2017-04-11 21:01:59,363  WARN [Worker-26] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
 2017-04-11 21:01:59,363  WARN [Worker-26] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:09:05,735  WARN [main] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:09:05,735  WARN [main] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:09:42,964  WARN [main] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:09:42,964  WARN [main] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:09:43,961  WARN [Worker-38] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:09:43,961  WARN [Worker-38] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:09:44,302  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-04-11 23:09:44,614  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-04-11 23:09:44,818  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-04-11 23:10:05,386  WARN [Worker-38] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:10:05,387  WARN [Worker-38] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:15:02,346  WARN [Worker-44] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:15:02,346  WARN [Worker-44] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:15:17,018  WARN [Worker-44] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:15:17,018  WARN [Worker-44] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:15:34,264  WARN [Worker-47] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:15:34,264  WARN [Worker-47] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:15:44,946  WARN [Worker-47] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:15:44,946  WARN [Worker-47] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:18:52,616  WARN [Worker-46] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:18:52,617  WARN [Worker-46] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:19:17,258  WARN [Worker-46] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:19:17,258  WARN [Worker-46] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:21:02,299  WARN [Worker-37] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:21:02,299  WARN [Worker-37] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:21:03,087  WARN [Worker-37] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:21:03,087  WARN [Worker-37] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:21:05,479  WARN [Worker-35] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:21:05,479  WARN [Worker-35] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:21:06,104  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:21:06,104  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:21:41,539  WARN [Worker-52] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:21:41,539  WARN [Worker-52] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:22:03,270  WARN [Worker-52] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:22:03,270  WARN [Worker-52] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:22:20,958  WARN [Worker-46] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:22:20,958  WARN [Worker-46] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:22:21,587  WARN [Worker-46] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:22:21,587  WARN [Worker-46] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:29:11,464  WARN [Worker-45] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:29:11,464  WARN [Worker-45] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:29:19,721  WARN [Worker-45] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:29:19,721  WARN [Worker-45] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:34:08,322 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:379)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:105)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:147)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:963)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:812)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:842)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:842)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:708)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:842)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:333)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:506)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:520)
+	at scala.tools.nsc.interactive.Global.signalDone(Global.scala:361)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5418)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedQualifier(Typers.scala:5472)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedQualifier(Typers.scala:5480)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedPackageDef$1(Typers.scala:5012)
+	at scala.tools.nsc.typechecker.Typers$Typer.typedMemberDef$1(Typers.scala:5312)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed1(Typers.scala:5359)
+	at scala.tools.nsc.typechecker.Typers$Typer.runTyper$1(Typers.scala:5396)
+	at scala.tools.nsc.typechecker.Typers$Typer.scala$tools$nsc$typechecker$Typers$Typer$$typedInternal(Typers.scala:5423)
+	at scala.tools.nsc.typechecker.Typers$Typer.body$2(Typers.scala:5370)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5374)
+	at scala.tools.nsc.typechecker.Typers$Typer.typed(Typers.scala:5448)
+	at scala.tools.nsc.typechecker.Analyzer$typerFactory$$anon$3.apply(Analyzer.scala:102)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.interactive.Global$TyperRun$$anonfun$applyPhase$1.apply(Global.scala:1338)
+	at scala.tools.nsc.interactive.Global$TyperRun$$anonfun$applyPhase$1.apply(Global.scala:1338)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.interactive.Global$TyperRun.applyPhase(Global.scala:1338)
+	at scala.tools.nsc.interactive.Global$TyperRun.typeCheck(Global.scala:1331)
+	at scala.tools.nsc.interactive.Global.typeCheck(Global.scala:670)
+	at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5$$anonfun$apply$8.apply(Global.scala:585)
+	at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5.apply(Global.scala:581)
+	at scala.tools.nsc.interactive.Global$$anonfun$backgroundCompile$5.apply(Global.scala:581)
+	at scala.collection.TraversableLike$WithFilter$$anonfun$foreach$1.apply(TraversableLike.scala:733)
+	at scala.collection.immutable.List.foreach(List.scala:381)
+	at scala.collection.TraversableLike$WithFilter.foreach(TraversableLike.scala:732)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:581)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2017-04-11 23:36:40,502 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.lang.NullPointerException
+	at scala.reflect.internal.Definitions$DefinitionsClass.isByNameParamType(Definitions.scala:379)
+	at scala.reflect.internal.TreeInfo.isStableIdent(TreeInfo.scala:130)
+	at scala.reflect.internal.TreeInfo.isStableIdentifier(TreeInfo.scala:105)
+	at scala.reflect.internal.TreeInfo.isPath(TreeInfo.scala:95)
+	at scala.reflect.internal.TreeInfo.admitsTypeSelection(TreeInfo.scala:147)
+	at scala.tools.nsc.interactive.Global.stabilizedType(Global.scala:963)
+	at scala.tools.nsc.interactive.Global.typedTreeAt(Global.scala:812)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:842)
+	at scala.tools.nsc.interactive.Global$$anonfun$getTypedTreeAt$1.apply(Global.scala:842)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:708)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.getTypedTreeAt(Global.scala:842)
+	at scala.tools.nsc.interactive.CompilerControl$AskTypeAtItem.apply$mcV$sp(CompilerControl.scala:333)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:506)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.Global.checkForMoreWork(Global.scala:520)
+	at scala.tools.nsc.interactive.Global.signalParseProgress(Global.scala:331)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefRest(Parsers.scala:2670)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.funDefOrDcl(Parsers.scala:2627)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.defOrDcl(Parsers.scala:2512)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.nonLocalDefOrDcl(Parsers.scala:2524)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3087)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1$$anonfun$applyOrElse$3.apply(Parsers.scala:3087)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:259)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3087)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStat$1.applyOrElse(Parsers.scala:3082)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3014)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStats(Parsers.scala:3081)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3068)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$templateStatSeq$1.apply(Parsers.scala:3045)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateStatSeq(Parsers.scala:3045)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBody(Parsers.scala:2974)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateBodyOpt(Parsers.scala:2981)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.templateOpt(Parsers.scala:2945)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.objectDef(Parsers.scala:2830)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.tmplDef(Parsers.scala:2766)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topLevelTmplDef(Parsers.scala:2747)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:3037)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1$$anonfun$applyOrElse$2.apply(Parsers.scala:3037)
+	at scala.tools.nsc.doc.ScaladocSyntaxAnalyzer$ScaladocUnitParser.joinComment(ScaladocAnalyzer.scala:240)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3037)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$topStat$1.applyOrElse(Parsers.scala:3030)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.statSeq(Parsers.scala:3014)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.topStatSeq(Parsers.scala:3029)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3227)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.topstats$1(Parsers.scala:3219)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3233)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$compilationUnit$1.apply(Parsers.scala:3195)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.checkNoEscapingPlaceholders(Parsers.scala:462)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.compilationUnit(Parsers.scala:3195)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$SourceFileParser$$anonfun$parseStartRule$1.apply(Parsers.scala:146)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser$$anonfun$parse$1.apply(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parseRule(Parsers.scala:345)
+	at scala.tools.nsc.ast.parser.Parsers$Parser.parse(Parsers.scala:352)
+	at scala.tools.nsc.ast.parser.Parsers$UnitParser.smartParse(Parsers.scala:241)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer.scala$tools$nsc$ast$parser$SyntaxAnalyzer$$initialUnitBody(SyntaxAnalyzer.scala:87)
+	at scala.tools.nsc.ast.parser.SyntaxAnalyzer$ParserPhase.apply(SyntaxAnalyzer.scala:99)
+	at scala.tools.nsc.Global$GlobalPhase$$anonfun$applyPhase$1.apply$mcV$sp(Global.scala:440)
+	at scala.tools.nsc.Global$GlobalPhase.withCurrentUnit(Global.scala:431)
+	at scala.tools.nsc.Global$GlobalPhase.applyPhase(Global.scala:440)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2$$anonfun$apply$1.apply(Global.scala:1609)
+	at scala.reflect.internal.SymbolTable.enteringPhase(SymbolTable.scala:235)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1609)
+	at scala.tools.nsc.Global$Run$$anonfun$compileLate$2.apply(Global.scala:1608)
+	at scala.collection.Iterator$class.foreach(Iterator.scala:893)
+	at scala.collection.AbstractIterator.foreach(Iterator.scala:1336)
+	at scala.tools.nsc.Global$Run.compileLate(Global.scala:1608)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$parseAndEnter(Global.scala:658)
+	at scala.tools.nsc.interactive.Global.backgroundCompile(Global.scala:564)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:25)
+2017-04-11 23:38:34,088 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-11 23:38:34,088 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-11 23:38:34,088 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-11 23:42:56,075 ERROR [main] - System.err - [org.scala-ide.sdt.aspects] error can't determine modifiers of missing type org.eclipse.pde.internal.ui.wizards.imports.PluginImportHelper
+when weaving type scala.tools.eclipse.contribution.weaving.jdt.IScalaOverrideIndicator
+when weaving classes 
+when weaving 
+ [Xlint:cantFindType]
+2017-04-11 23:48:39,921  WARN [Worker-53] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:48:39,921  WARN [Worker-53] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:48:46,962  WARN [Worker-53] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:48:46,962  WARN [Worker-53] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:49:00,858  WARN [Worker-57] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:49:00,858  WARN [Worker-57] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:49:06,869  WARN [Worker-57] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:49:06,869  WARN [Worker-57] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:51:17,692  WARN [Worker-57] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:51:17,692  WARN [Worker-57] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:51:18,328  WARN [Worker-57] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:51:18,328  WARN [Worker-57] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:51:20,091  WARN [Worker-61] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:51:20,091  WARN [Worker-61] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:51:20,875  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:51:20,875  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:51:30,741  WARN [Worker-66] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:51:30,741  WARN [Worker-66] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:51:53,186  WARN [Worker-66] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:51:53,186  WARN [Worker-66] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:52:14,767  WARN [Worker-65] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:52:14,781  WARN [Worker-65] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:52:15,405  WARN [Worker-65] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:52:15,406  WARN [Worker-65] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:53:03,164  WARN [Worker-65] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:53:03,164  WARN [Worker-65] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:53:10,743  WARN [Worker-65] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:53:10,743  WARN [Worker-65] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:53:46,602 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-11 23:53:46,607 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-11 23:53:46,608 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-11 23:53:52,468  WARN [Worker-56] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:53:52,468  WARN [Worker-56] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:54:05,054  WARN [Worker-56] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:54:05,054  WARN [Worker-56] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:55:46,258  WARN [Worker-65] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:55:46,258  WARN [Worker-65] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:56:09,786  WARN [Worker-56] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:56:09,786  WARN [Worker-56] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-11 23:56:15,650  WARN [Worker-56] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-11 23:56:15,650  WARN [Worker-56] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:02:51,191  WARN [Worker-70] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:02:51,191  WARN [Worker-70] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:02:58,883  WARN [Worker-70] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:02:58,883  WARN [Worker-70] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:12:09,580 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.util.NoSuchElementException: key not found: org/apache/spark/MapOutputTracker.scala
+	at scala.collection.MapLike$class.default(MapLike.scala:228)
+	at scala.collection.AbstractMap.default(Map.scala:59)
+	at scala.collection.MapLike$class.apply(MapLike.scala:141)
+	at scala.tools.nsc.interactive.Global$$anon$4.scala$collection$mutable$SynchronizedMap$$super$apply(Global.scala:176)
+	at scala.collection.mutable.SynchronizedMap$class.apply(SynchronizedMap.scala:48)
+	at scala.tools.nsc.interactive.Global$$anon$4.apply(Global.scala:176)
+	at scala.tools.nsc.interactive.Global$$anonfun$14.apply(Global.scala:852)
+	at scala.tools.nsc.interactive.Global$$anonfun$14.apply(Global.scala:852)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:951)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:855)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:708)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:945)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:383)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:506)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-04-12 00:12:12,710 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.util.NoSuchElementException: key not found: org/apache/spark/streaming/Checkpoint.scala
+	at scala.collection.MapLike$class.default(MapLike.scala:228)
+	at scala.collection.AbstractMap.default(Map.scala:59)
+	at scala.collection.MapLike$class.apply(MapLike.scala:141)
+	at scala.tools.nsc.interactive.Global$$anon$4.scala$collection$mutable$SynchronizedMap$$super$apply(Global.scala:176)
+	at scala.collection.mutable.SynchronizedMap$class.apply(SynchronizedMap.scala:48)
+	at scala.tools.nsc.interactive.Global$$anon$4.apply(Global.scala:176)
+	at scala.tools.nsc.interactive.Global$$anonfun$14.apply(Global.scala:852)
+	at scala.tools.nsc.interactive.Global$$anonfun$14.apply(Global.scala:852)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:951)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:855)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:708)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:945)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:383)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:506)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-04-12 00:12:27,467 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.util.NoSuchElementException: key not found: org/apache/spark/streaming/Checkpoint.scala
+	at scala.collection.MapLike$class.default(MapLike.scala:228)
+	at scala.collection.AbstractMap.default(Map.scala:59)
+	at scala.collection.MapLike$class.apply(MapLike.scala:141)
+	at scala.tools.nsc.interactive.Global$$anon$4.scala$collection$mutable$SynchronizedMap$$super$apply(Global.scala:176)
+	at scala.collection.mutable.SynchronizedMap$class.apply(SynchronizedMap.scala:48)
+	at scala.tools.nsc.interactive.Global$$anon$4.apply(Global.scala:176)
+	at scala.tools.nsc.interactive.Global$$anonfun$14.apply(Global.scala:852)
+	at scala.tools.nsc.interactive.Global$$anonfun$14.apply(Global.scala:852)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:951)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:855)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:708)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:945)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:383)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:506)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-04-12 00:14:07,615  WARN [Worker-69] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:14:07,615  WARN [Worker-69] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:14:08,302  WARN [Worker-69] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:14:08,302  WARN [Worker-69] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:14:10,215  WARN [Worker-71] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:14:10,215  WARN [Worker-71] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:14:11,223  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:14:11,223  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:17:27,339 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.util.NoSuchElementException: key not found: org/apache/spark/MapOutputTracker.scala
+	at scala.collection.MapLike$class.default(MapLike.scala:228)
+	at scala.collection.AbstractMap.default(Map.scala:59)
+	at scala.collection.MapLike$class.apply(MapLike.scala:141)
+	at scala.tools.nsc.interactive.Global$$anon$4.scala$collection$mutable$SynchronizedMap$$super$apply(Global.scala:176)
+	at scala.collection.mutable.SynchronizedMap$class.apply(SynchronizedMap.scala:48)
+	at scala.tools.nsc.interactive.Global$$anon$4.apply(Global.scala:176)
+	at scala.tools.nsc.interactive.Global$$anonfun$14.apply(Global.scala:852)
+	at scala.tools.nsc.interactive.Global$$anonfun$14.apply(Global.scala:852)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:951)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:855)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:708)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:945)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:383)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:506)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-04-12 00:17:28,977 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.util.NoSuchElementException: key not found: org/apache/spark/streaming/Checkpoint.scala
+	at scala.collection.MapLike$class.default(MapLike.scala:228)
+	at scala.collection.AbstractMap.default(Map.scala:59)
+	at scala.collection.MapLike$class.apply(MapLike.scala:141)
+	at scala.tools.nsc.interactive.Global$$anon$4.scala$collection$mutable$SynchronizedMap$$super$apply(Global.scala:176)
+	at scala.collection.mutable.SynchronizedMap$class.apply(SynchronizedMap.scala:48)
+	at scala.tools.nsc.interactive.Global$$anon$4.apply(Global.scala:176)
+	at scala.tools.nsc.interactive.Global$$anonfun$14.apply(Global.scala:852)
+	at scala.tools.nsc.interactive.Global$$anonfun$14.apply(Global.scala:852)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:951)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:855)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:708)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:945)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:383)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:506)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-04-12 00:19:04,604  WARN [Worker-73] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:19:04,604  WARN [Worker-73] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:20:57,089 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 00:20:57,089 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 00:20:57,089 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 00:23:02,113  WARN [Worker-74] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:23:02,113  WARN [Worker-74] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:23:04,781  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2017-04-12 00:23:11,223  WARN [Worker-74] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:23:11,223  WARN [Worker-74] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:23:20,369  WARN [Worker-72] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:23:20,369  WARN [Worker-72] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:23:28,108  WARN [Worker-72] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:23:28,108  WARN [Worker-72] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:24:04,475 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.util.NoSuchElementException: key not found: org/apache/spark/MapOutputTracker.scala
+	at scala.collection.MapLike$class.default(MapLike.scala:228)
+	at scala.collection.AbstractMap.default(Map.scala:59)
+	at scala.collection.MapLike$class.apply(MapLike.scala:141)
+	at scala.tools.nsc.interactive.Global$$anon$4.scala$collection$mutable$SynchronizedMap$$super$apply(Global.scala:176)
+	at scala.collection.mutable.SynchronizedMap$class.apply(SynchronizedMap.scala:48)
+	at scala.tools.nsc.interactive.Global$$anon$4.apply(Global.scala:176)
+	at scala.tools.nsc.interactive.Global$$anonfun$14.apply(Global.scala:852)
+	at scala.tools.nsc.interactive.Global$$anonfun$14.apply(Global.scala:852)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:951)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:855)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:708)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:945)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:383)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:506)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-04-12 00:24:07,090 ERROR [main] - org.scala-ide.sdt.core - org.scala-ide.sdt.core - org.scala-ide.sdt.core - 0 - Throwable during asyncExec
+java.util.NoSuchElementException: key not found: org/apache/spark/MapOutputTracker.scala
+	at scala.collection.MapLike$class.default(MapLike.scala:228)
+	at scala.collection.AbstractMap.default(Map.scala:59)
+	at scala.collection.MapLike$class.apply(MapLike.scala:141)
+	at scala.tools.nsc.interactive.Global$$anon$4.scala$collection$mutable$SynchronizedMap$$super$apply(Global.scala:176)
+	at scala.collection.mutable.SynchronizedMap$class.apply(SynchronizedMap.scala:48)
+	at scala.tools.nsc.interactive.Global$$anon$4.apply(Global.scala:176)
+	at scala.tools.nsc.interactive.Global$$anonfun$14.apply(Global.scala:852)
+	at scala.tools.nsc.interactive.Global$$anonfun$14.apply(Global.scala:852)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:951)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2$$anonfun$apply$16.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global.scala$tools$nsc$interactive$Global$$withTempUnits(Global.scala:855)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$getDocComment$2.apply(Global.scala:946)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global$$anonfun$respond$1.apply(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.respondGradually(Global.scala:708)
+	at scala.tools.nsc.interactive.Global.respond(Global.scala:701)
+	at scala.tools.nsc.interactive.Global.getDocComment(Global.scala:945)
+	at scala.tools.nsc.interactive.CompilerControl$AskDocCommentItem.apply$mcV$sp(CompilerControl.scala:383)
+	at scala.tools.nsc.interactive.Global$$anonfun$pollForWork$1.apply$mcV$sp(Global.scala:506)
+	at scala.util.control.Breaks.breakable(Breaks.scala:38)
+	at scala.tools.nsc.interactive.Global.pollForWork(Global.scala:431)
+	at scala.tools.nsc.interactive.PresentationCompilerThread.run(PresentationCompilerThread.scala:22)
+2017-04-12 00:28:18,114 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 00:28:18,114 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 00:28:18,114 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 00:47:16,546  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - TraverserImpl$ - Skipping annotation, position length = 0, position offset = 1517
+2017-04-12 00:48:03,365  WARN [Worker-79] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:48:03,365  WARN [Worker-79] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:48:39,349  WARN [Worker-81] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:48:39,349  WARN [Worker-81] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:48:44,419 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 00:48:44,419 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 00:48:44,419 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 00:48:46,190  WARN [Worker-81] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:48:46,190  WARN [Worker-81] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:50:16,290  WARN [Worker-79] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:50:16,295  WARN [Worker-79] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:50:23,947  WARN [Worker-79] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:50:23,947  WARN [Worker-79] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:50:26,303  WARN [Worker-83] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:50:26,303  WARN [Worker-83] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:50:40,624  WARN [Worker-79] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:50:40,624  WARN [Worker-79] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:50:41,413  WARN [Worker-79] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:50:41,413  WARN [Worker-79] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:53:21,068  WARN [Worker-82] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:53:21,068  WARN [Worker-82] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:53:28,379  WARN [Worker-82] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:53:28,379  WARN [Worker-82] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:59:24,616  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:59:24,616  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 00:59:31,546  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 00:59:31,546  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:02:38,833  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:02:38,833  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:02:47,615  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:02:47,615  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:04:39,694  WARN [Worker-94] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:04:39,694  WARN [Worker-94] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:04:48,328  WARN [Worker-94] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:04:48,328  WARN [Worker-94] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:05:13,104  WARN [Worker-95] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:05:13,104  WARN [Worker-95] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:05:22,034  WARN [Worker-95] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:05:22,034  WARN [Worker-95] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:06:01,926  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:06:01,926  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:06:11,846  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:06:11,846  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:07:15,215 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 01:07:15,215 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 01:07:15,215 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 01:08:35,451  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:08:35,451  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:08:45,510  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:08:45,511  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:12:26,742  WARN [Worker-95] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:12:26,742  WARN [Worker-95] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:12:57,479  WARN [Worker-95] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:12:57,479  WARN [Worker-95] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:12:58,696  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:12:58,696  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:13:12,730  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:13:12,730  WARN [Worker-88] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:24:56,629  WARN [Worker-99] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:24:56,629  WARN [Worker-99] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:25:07,428  WARN [Worker-99] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:25:07,428  WARN [Worker-99] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:26:25,420 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 01:26:25,420 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 01:26:25,420 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 01:27:57,232  WARN [Worker-106] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:27:57,232  WARN [Worker-106] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:28:07,397  WARN [Worker-106] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:28:07,402  WARN [Worker-106] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:28:57,524  WARN [Worker-106] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:28:57,524  WARN [Worker-106] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:29:05,329  WARN [Worker-106] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:29:05,329  WARN [Worker-106] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:31:37,735  WARN [Worker-109] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:31:37,735  WARN [Worker-109] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:32:09,958  WARN [Worker-109] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:32:09,958  WARN [Worker-109] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:36:46,321  WARN [Worker-113] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:36:46,321  WARN [Worker-113] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 01:36:59,013  WARN [Worker-113] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 01:36:59,014  WARN [Worker-113] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 14:14:34,764  WARN [main] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 14:14:34,770  WARN [main] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 14:14:34,777  WARN [main] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 14:14:34,777  WARN [main] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 14:16:10,313  WARN [Worker-11] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 14:16:10,342  WARN [Worker-11] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 14:16:10,614  WARN [Worker-11] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 14:16:10,614  WARN [Worker-11] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 14:16:13,959  WARN [Worker-11] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 14:16:13,959  WARN [Worker-11] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 19:05:26,811  WARN [main] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 19:05:26,815  WARN [main] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 19:05:26,826  WARN [main] - ScalaProject - Project youtubedataprocessingspark has platform default sourceLevel.
+2017-04-12 19:05:26,826  WARN [main] - ScalaProject - Project youtubedataprocessingspark runs on platform default installation.
+2017-04-12 19:05:58,114 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2017-04-12 19:11:12,497  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CallByNameParamAtCreationPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
