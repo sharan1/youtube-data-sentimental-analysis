@@ -52,6 +52,11 @@
 		</dependency>
 		<dependency>
 			<groupId>org.apache.spark</groupId>
+			<artifactId>spark-core_2.11</artifactId>
+			<version>2.1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.spark</groupId>
 			<artifactId>spark-streaming_2.11</artifactId>
 			<version>2.1.0</version>
 		</dependency>
@@ -59,6 +64,32 @@
 			<groupId>org.apache.spark</groupId>
 			<artifactId>spark-streaming-kafka-0-10_2.11</artifactId>
 			<version>2.1.0</version>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.spark</groupId>
+			<artifactId>spark-sql_2.11</artifactId>
+			<version>2.1.0</version>
+		</dependency>
+		<dependency>
+		    <groupId>edu.stanford.nlp</groupId>
+			<artifactId>stanford-corenlp</artifactId>
+			<version>3.6.0</version>
+		</dependency>
+		<dependency>
+		    <groupId>edu.stanford.nlp</groupId>
+		    <artifactId>stanford-corenlp</artifactId>
+		    <version>3.6.0</version>
+		    <classifier>models</classifier>
+		</dependency>
+		<dependency>
+		    <groupId>databricks</groupId>
+		    <artifactId>spark-corenlp</artifactId>
+		    <version>0.2.0-s_2.11</version>
+		</dependency>
+		<dependency>
+			<groupId>redis.clients</groupId>
+			<artifactId>jedis</artifactId>
+			<version>2.9.0</version>
 		</dependency>
 
 		<!-- Test -->
@@ -81,7 +112,14 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-
+	
+	<repositories>
+	  <repository>
+	    <id>SparkPackagesRepo</id>
+	    <url>http://dl.bintray.com/spark-packages/maven</url>
+	  </repository>
+	</repositories>
+	
 	<build>
 		<sourceDirectory>src/main/scala</sourceDirectory>
 		<testSourceDirectory>src/test/scala</testSourceDirectory>

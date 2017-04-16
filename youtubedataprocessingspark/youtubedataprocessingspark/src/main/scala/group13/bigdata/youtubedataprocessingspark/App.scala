@@ -12,12 +12,22 @@ import org.apache.spark.streaming._;
 import org.apache.spark.streaming.kafka010._;
 import org.apache.spark.streaming.kafka010.LocationStrategies.PreferConsistent;
 import org.apache.spark.streaming.kafka010.ConsumerStrategies.Subscribe;
+import org.apache.spark.sql._;
+import org.apache.spark.sql.functions._;
+import org.apache.spark.sql.DataFrame;
+import com.databricks.spark.corenlp.functions._;
 
 /**
  * @author ${user.name}
  */
 object App {
  
+  val config = new SparkConf().setAppName("youtube-sentimental-analysis").setMaster("local[2]").set("spark.driver.host", "localhost");
+  val sparkContext = new SparkContext(config);
+  val sqlContext = new SQLContext(sparkContext);
+  
+  import sqlContext.implicits._;
+  
   def main(args: Array[String]) {
 
     val kafkaParams = Map[String, Object](
@@ -28,9 +38,7 @@ object App {
       "auto.offset.reset" -> "latest");
 
     val topic = Array("test");
-    val config = new SparkConf().setAppName("youtube-sentimental-analysis").setMaster("local[2]").set("spark.driver.host", "localhost");
-
-    val sparkContext = new SparkContext(config);
+    
     sparkContext.setLogLevel("WARN");
 
     val streamingSparkContext = new StreamingContext(sparkContext, Seconds(3));
@@ -38,13 +46,18 @@ object App {
       streamingSparkContext,
       PreferConsistent,
       Subscribe[String, String](topic, kafkaParams));
-
+    
     stream.foreachRDD(rdd => {
-
       println("rdd partition size" + rdd.partitions.size + "with" + rdd.count());
-      rdd.foreach(record => println(record.value()));
+      val xyz = rdd.map(record => record.value().split("|")).map(x=>(x(0),x(1),x(2),x(3)))
+      .toDF("videoId", "videoTitle", "videoDescription", "comment")
+      .withColumn("commentSentimentScore", sentiment(col("comment")))
+      .groupBy("videoId", "videoTitle", "videoDescription")
+      .agg(avg($"commentSentimentScore").as("videoSentimentScore"));
+      
+      xyz.show();
     });
-
+    
     streamingSparkContext.start();
     streamingSparkContext.awaitTermination();
   }
