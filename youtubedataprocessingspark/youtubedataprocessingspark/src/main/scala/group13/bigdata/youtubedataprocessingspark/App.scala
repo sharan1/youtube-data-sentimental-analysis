@@ -49,13 +49,14 @@ object App {
     
     stream.foreachRDD(rdd => {
       println("rdd partition size" + rdd.partitions.size + "with" + rdd.count());
-      val xyz = rdd.map(record => record.value().split("|")).map(x=>(x(0),x(1),x(2),x(3)))
-      .toDF("videoId", "videoTitle", "videoDescription", "comment")
-      .withColumn("commentSentimentScore", sentiment(col("comment")))
-      .groupBy("videoId", "videoTitle", "videoDescription")
-      .agg(avg($"commentSentimentScore").as("videoSentimentScore"));
+      val xyz = rdd.map(record => record.value().split('|'))
+        .map(x=>(x(0),x(1),x(2),x(3)))
+        .toDF("videoId", "videoTitle", "videoDescription", "comment")
+        .withColumn("commentSentimentScore", sentiment(col("comment")))
+        .groupBy("videoId", "videoTitle", "videoDescription")
+        .agg(avg($"commentSentimentScore").as("videoSentimentScore"));
       
-      xyz.show();
+        xyz.show();
     });
     
     streamingSparkContext.start();
