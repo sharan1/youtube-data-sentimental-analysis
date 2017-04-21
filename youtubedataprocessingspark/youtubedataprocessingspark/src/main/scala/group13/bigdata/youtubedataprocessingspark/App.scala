@@ -59,6 +59,7 @@ object App {
       if (xyz.count() > 0) {
         xyz.foreach { row => 
             val message = (row.getAs("videoId"),row.getAs("videoTitle"),row.getAs("videoDescription"),row.getAs("videoSentimentScore"))
+            println(message);
             val jedis = new Jedis("localhost", 6379);
             val pipleline = jedis.pipelined();
             val write = message.productIterator.mkString("|");
