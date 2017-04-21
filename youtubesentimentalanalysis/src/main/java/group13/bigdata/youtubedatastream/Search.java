@@ -5,6 +5,8 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import java.util.*;
 import java.net.*;
 import org.json.*;
@@ -76,12 +78,19 @@ public class Search {
 						for (int j = 0; j < items2.length(); j++) {
 							String comment_text = null;
 							boolean isOriginalText = items2.getJSONObject(j).getJSONObject(Constants.SNIPPET)
-									.getJSONObject(Constants.TOP_LEVEL_COMMENT).getJSONObject(Constants.SNIPPET).has(Constants.COMMEXT_TEXT);
+									.getJSONObject(Constants.TOP_LEVEL_COMMENT).getJSONObject(Constants.SNIPPET)
+									.has(Constants.COMMEXT_TEXT);
 							if (isOriginalText) {
 								comment_text = items2.getJSONObject(j).getJSONObject(Constants.SNIPPET)
 										.getJSONObject(Constants.TOP_LEVEL_COMMENT).getJSONObject(Constants.SNIPPET)
 										.getString(Constants.COMMEXT_TEXT);
-								Comment com = new Comment(comment_text);
+
+								comment_text = comment_text.replaceAll("[^a-zA-Z\\s]", "").trim();
+								Comment com = null;
+								if (!comment_text.isEmpty()){
+									System.out.println(comment_text);
+								 com = new Comment(comment_text);
+								}
 								StringJoiner joiner = new StringJoiner("|");
 								joiner.add(video_id).add(video_title).add(video_desc).add(comment_text);
 								try {
@@ -90,8 +99,11 @@ public class Search {
 									// TODO Auto-generated catch block
 									e.printStackTrace();
 								}
-								producer.produceYouTubeData(Constants.TOPIC_NAME, joiner.toString());
+								if(!comment_text.isEmpty()){
+								producer.produceYouTubeData(Constants.TOPIC_NAME,
+								 joiner.toString());
 								commentList.add(com);
+								}
 
 							}
 						}
