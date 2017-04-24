@@ -14,13 +14,30 @@
 
 <body>
 
-    <div class="container">
+    <div class="container" style="margin-left:5%;max-width:100%; width:100%">
         <div class="header">
 
-            <h3 class="text-muted">Youtube Video-Comments Sentiment Analysis</h3>
+            <h3 class="text-muted" style="margin-left:25%">Youtube Video-Comments Sentiment Analysis</h3>
         </div>
-        <div id="data"></div>
+
+        <div class = "row">
+            <div class="col-md-5">
+                <table class="table table-striped table-bordered table-condensed">
+                    <thead>
+                        <tr>
+                            <th> Video ID</th>
+                            <th> Video Title </th>
+                            <th> Video Description</th>
+                            <th> Batch Average Comment </th>
+                        </tr>
+                    </thead>
+                    <tbody id="data-stream"></tbody>
+                </table>
+            </div>
+            <div id="visual-stream" class="col-md-7"></div>
+        </div>
     </div>
+    
 
     <footer class="footer">
 

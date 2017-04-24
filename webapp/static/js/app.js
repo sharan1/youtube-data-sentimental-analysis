@@ -1,5 +1,6 @@
 var eventSource = new EventSource("/stream");
-var eventList = document.getElementById("data");
+var dataStream = document.getElementById("data-stream");
+var eventList = document.getElementById("visual-stream");
 
 
 
@@ -89,9 +90,14 @@ eventSource.onmessage = function(e) {
 
     var newData = e.data.split("|");
     console.log(newData);
+
     if(newData.length == 4)
     {
-     
+        // Data Stream
+        var htmlData = "<tr><td>"+newData[0]+"</td><td>"+newData[1]+"</td><td>"+newData[2]+"</td><td>"+newData[3]+"</td></tr>";
+        $('#data-stream').after(htmlData);
+
+        // Data Visualization
         var isData = false;
         var dataIndex ;
         for (var index = 0; index < data.length; index++) {
@@ -127,13 +133,13 @@ eventSource.onmessage = function(e) {
     console.log("updated data ");
     console.log(data);
     sel.remove();
-    var test = -180;
+    var test = -130;
    sel = svg.selectAll(".bar")
         .data(data)
         .enter().append("rect")
         .attr("class", "bar")
-        .attr("x", function() { test += 200; return test;})
-        .attr("width", 138)
+        .attr("x", function() { test += 150; return test;})
+        .attr("width", 80)
         .attr("y", function(d) {
             console.log(d[3]);
             return y(d[3]);
