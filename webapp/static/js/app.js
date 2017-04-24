@@ -2,40 +2,8 @@ var eventSource = new EventSource("/stream");
 var eventList = document.getElementById("data");
 
 
-// var data = [];
-// var width = Math.max($('.data').width(), 960), //960,
-//     height = Math.max($('.data').height(), 500);
-// var chart = d3.select(".data").append("svg")
-//     .attr("width", width)
-//     .attr("height", height);
-// var frameSize = 10;
-// var chartFrame = chart.append("g")
-//     .append("rect")
-//     .attr("class", "frame")
-//     .attr("x", frameSize)
-//     .attr("y", frameSize)
-//     .attr("width", (width - frameSize * 2))
-//     .attr("height", (height - frameSize * 2))
-//     .attr("stroke", "#ffffff")
-//     .attr("stroke-width", frameSize);
-// var chartDefs = chart.append("defs");
-// var chartMask = chartDefs.append("mask").attr("id", "masterMask")
-//     .append("rect")
-//     .attr("x", frameSize)
-//     .attr("y", frameSize)
-//     .attr("width", (width - frameSize * 2))
-//     .attr("height", (height - frameSize * 2))
-//     .attr("fill", "#ffffff");
-// var chartRecords = chart.append("g")
-//     .attr("mask", "url(#masterMask)");
 
-var data = [
-    ['videoId1', 'videoTitle1', 'videoDesc1', '2.0'],
-    ['videoId2', 'videoTitle2', 'videoDesc2', '2.5'],
-    ['videoId3', 'videoTitle3', 'videoDesc3', '1.5'],
-    ['videoId4', 'videoTitle4', 'videoDesc4', '3.5'],
-    ['videoId5', 'videoTitle5', 'videoDesc5', '3.0']
-];
+var data = [];
 
 var margin = {
     top: 20,
@@ -46,18 +14,15 @@ var margin = {
 var width = 960 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
-var x = d3.scale.ordinal()
-    .domain(data.map(function(d) {
-        return d[0]
-    }))
-    .rangeRoundBands([0, width], .1);
+var x = d3.scale.ordinal().rangeRoundBands([0, width], .1);
+
 var y = d3.scale.linear()
     .domain([0.0, 4.0])
     .range([height, 0]);
 
-var xAxis = d3.svg.axis()
-    .scale(x)
-    .orient("bottom");
+var xAxis = d3.svg.axis();
+    
+    xAxis.scale(x).orient("bottom");
 var yAxis = d3.svg.axis()
     .scale(y)
     .orient("left");
@@ -68,10 +33,27 @@ var svg = d3.select(eventList).append("svg")
     .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+var tip = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([-10, 0])
+    .html(function(d) {
+        return "<strong>VideoId:</strong> <span style='color:steelblue'>" + d[0] + "</span></br><strong>VideoTitle:</strong> <span style='color:steelblue'>" + d[1] + "</span></br><strong>VideoDesc:</strong> <span style='color:steelblue'>" + d[2] + "</span>";
+    });
+
+
+svg.call(tip);
+
 svg.append("g")
     .attr("class", "x axis")
     .attr("transform", "translate(0, " + height + ")")
-    .call(xAxis);
+    .call(xAxis)
+    .append("text")
+    .attr("x", 900)
+    .attr("y", 20)
+    .style("font-weight", "bold")
+    .attr("dx", ".71em")
+    .style("text-anchor", "end")
+    .text("Videos");
 
 svg.append("g")
     .attr("class", "y axis")
@@ -80,62 +62,11 @@ svg.append("g")
     .attr("transform", "rotate(-90)")
     .attr("y", 6)
     .attr("dy", ".71em")
+    .style("font-weight", "bold")
     .style("text-anchor", "end")
     .text("Comment Score");
 
-eventSource.onmessage = function(e) {
-
-
-    var newData = e.data.split("|");
-    console.log(newData);
-
-    // Append new data
-    data = data.concat(newData);
-
-    // Remove old data (i.e., avoid overflows)
-    var maxNumberOfRecords = 200;
-    while (data.length > maxNumberOfRecords) {
-        delete data.shift();
-    }
-
-    // // Setup scaling
-    // var xScale = d3.scale.linear()
-    //     .domain(_.map(data, function(value) {
-    //         return value[0];
-    //     }))
-    //     .range([0, (width - frameSize) / maxNumberOfRecords]);
-    // var yScale = d3.scale.linear()
-    //     .range([0, (height - frameSize)]);
-
-    // // DATA JOIN (i.e., join new data with old elements, if any)
-    // var record = chartRecords.selectAll("rect")
-    //     .data(data);
-    // // UPDATE (i.e., Update old elements as needed.)
-    // record.attr("class", "update");
-    // // // ENTER (i.e., Create new elements as needed.)
-    // record.enter().append("rect")
-    //     .attr("class", "enter")
-    //     .attr("x", (width - frameSize))
-    //     .attr("y", (height - frameSize));
-    // // ENTER + UPDATE (i.e., Appending to the enter selection expands the update selection to include entering elements; so, operations on the update selection after appending to the enter selection will apply to both entering and updating nodes.)
-    // record
-    //     .transition()
-    //     // .duration(200)
-    //     .attr("x", function(d, i) {
-    //         return xScale(d.value);
-    //     })
-    //     .attr("y", function(d, i) {
-    //         return height - yScale(d.value)
-    //     })
-    //     .attr("width", function(d, i) {
-    //         return Math.ceil(width / maxNumberOfRecords); // Ensure overlap with neighbors
-    //     })
-    //     .attr("height", function(d, i) {
-    //         return yScale(d.value);
-    //     })
-    //     .attr('fill', 'white');
-
-    svg.selectAll(".bar")
+var sel = svg.selectAll(".bar")
         .data(data)
         .enter().append("rect")
         .attr("class", "bar")
@@ -151,8 +82,75 @@ eventSource.onmessage = function(e) {
         })
         .attr("fill", "steelblue");
 
-    // var newElement = document.createElement("li");
-    // var data = e.data;
-    // newElement.appendChild(document.createTextNode(data));
-    // eventList.appendChild(newElement);
+var xval = -180;
+var xlabel = 100;
+
+eventSource.onmessage = function(e) {
+
+    var newData = e.data.split("|");
+    console.log(newData);
+    if(newData.length == 4)
+    {
+     
+        var isData = false;
+        var dataIndex ;
+        for (var index = 0; index < data.length; index++) {
+           if(data[index][0]== newData[0])
+           {
+                dataIndex = index;
+                isData = true;
+                break;
+           }
+           else
+           {
+               isData = false;
+           }
+        }
+
+        if(isData)
+        {
+            var newDataSentiment = newData[3];
+            var oldDataSentiment = data[dataIndex][3];
+            var avg = (parseFloat(newDataSentiment)+ parseFloat(oldDataSentiment))/2.0;
+            data[dataIndex][3] = avg;
+        }
+        else {
+            var v = 200;
+            xval += v;
+            data.push(newData);
+            x.domain(data.map(function(d) {
+                return d[0]
+            }));
+
+            xlabel += 100;
+        }
+    console.log("updated data ");
+    console.log(data);
+    sel.remove();
+    var test = -180;
+   sel = svg.selectAll(".bar")
+        .data(data)
+        .enter().append("rect")
+        .attr("class", "bar")
+        .attr("x", function() { test += 200; return test;})
+        .attr("width", 138)
+        .attr("y", function(d) {
+            console.log(d[3]);
+            return y(d[3]);
+        })
+        .attr("height", function(d) {
+            console.log(d[3]);
+            return height - y(d[3]);
+        })
+        .on('mouseover', tip.show)
+        .on('mouseout', tip.hide)
+        .style("fill", function(d) {
+            if (d[3] > 0 && d[3] < 2.0)
+                return "red";
+            if (d[3] == 2.0)
+                return "yellow"
+            if (d[3] > 2.0)
+                return "green"
+        });
+    }
 }

@@ -88,7 +88,7 @@ public class Search {
 								comment_text = comment_text.replaceAll("[^a-zA-Z\\s]", "").trim();
 								Comment com = null;
 								if (!comment_text.isEmpty()){
-									System.out.println(comment_text);
+									//System.out.println(comment_text);
 								 com = new Comment(comment_text);
 								}
 								StringJoiner joiner = new StringJoiner("|");
