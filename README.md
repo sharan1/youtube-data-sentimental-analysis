@@ -27,6 +27,6 @@ We have used Java to fetch data continuously, this java app starts and asks for 
 ## CLIENT APPLICATION (DASHBOARD): 
   I am using JavaScript, JQuery and D3.js for our dashboard. D3.js is an amazing visualization JavaScript library. It's use, here, is to create bar charts for all the videos which we are analyzing. You can notice the changes here in real-time, i.e. as soon as the stream keeps coming and analyzed and sent to redis our visualization keeps updating automatically. The performance was quite good and we noticed changes in visualization in every 1-2 seconds. Along with the bar chart we are also updating our UI as soon as a chunk of data comes in a table which displays the Video Id, Video Title, Video description and batch average comment sentiment score. This batch is a streaming batch i.e. all the data analyzed in one batch of streaming(as we know spark streaming is processed in micro-batches).
   
-  ![Alt text](bigdata.jfif?raw=true "Title")
+  ![Alt text](bigdata.jfif?raw=true "Sample Graph")
   
 Each bar is color coded based on the total average sentiment score of each video. (Red : Negative, Yellow : Neutral, Green : Positive)
