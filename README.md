@@ -1,4 +1,12 @@
 # youtube-data-sentimental-analysis
+
+## CLIENT APPLICATION (DASHBOARD): 
+  I am using JavaScript, JQuery and D3.js for our dashboard. D3.js is an amazing visualization JavaScript library. It's use, here, is to create bar charts for all the videos which we are analyzing. You can notice the changes here in real-time, i.e. as soon as the stream keeps coming and analyzed and sent to redis our visualization keeps updating automatically. The performance was quite good and we noticed changes in visualization in every 1-2 seconds. Along with the bar chart we are also updating our UI as soon as a chunk of data comes in a table which displays the Video Id, Video Title, Video description and batch average comment sentiment score. This batch is a streaming batch i.e. all the data analyzed in one batch of streaming(as we know spark streaming is processed in micro-batches).
+  
+  ![Alt text](bigdata.jfif?raw=true "Sample Graph")
+  
+Each bar is color coded based on the total average sentiment score of each video. (Red : Negative, Yellow : Neutral, Green : Positive)
+
 ## Description and Working
 
 Youtube Sentiment Analysis is a real time web platform, which shows a sentiment analysis of video's comments that you get from the standard youtube APIs. When given a keyword, I fetch comments of top videos using YouTube’s ‘Search’ and ‘Comment’ APIs and organize this data in a desired format. Now, in order to make a data pipeline for streaming data, I send this data to an Apache Kafka producer, written in Java. Using Spark Streaming in Scala, I process this streaming data in small batches i.e. take the sentiment score of all the comments using the Stanford Corenlp library and group them based on each video. This resultant data is then stored on a local Redis Server in order to be picked up by the event stream created in Python (Flask). Finally, we visualize this data using JavaScript’s D3.js library.
@@ -23,10 +31,3 @@ We have used Java to fetch data continuously, this java app starts and asks for 
 
 ## PYTHON as WEB SERVER SIDE APP(FLASK): 
   The reason behind using python flask is because the development is very rapid and it is highly scalable. I have used Flask for its simplicity and its features. Requirements here, are limited to a small web server which can consume the messages from redis channel and push the data to client as soon as it consumes the data from Redis channel. In this application I have created a web server and an endpoint url for “text/event-stream”. I have created “/stream” endpoint where our python server keeps pushing data as soon as it consumes from Redis server. The format of messages pushed to client is Video Id, Video Title, Video description, Average Sentiment Score for Comments separated by a delimiter “,”.
-
-## CLIENT APPLICATION (DASHBOARD): 
-  I am using JavaScript, JQuery and D3.js for our dashboard. D3.js is an amazing visualization JavaScript library. It's use, here, is to create bar charts for all the videos which we are analyzing. You can notice the changes here in real-time, i.e. as soon as the stream keeps coming and analyzed and sent to redis our visualization keeps updating automatically. The performance was quite good and we noticed changes in visualization in every 1-2 seconds. Along with the bar chart we are also updating our UI as soon as a chunk of data comes in a table which displays the Video Id, Video Title, Video description and batch average comment sentiment score. This batch is a streaming batch i.e. all the data analyzed in one batch of streaming(as we know spark streaming is processed in micro-batches).
-  
-  ![Alt text](bigdata.jfif?raw=true "Sample Graph")
-  
-Each bar is color coded based on the total average sentiment score of each video. (Red : Negative, Yellow : Neutral, Green : Positive)
